@@ -1,0 +1,17 @@
+<ifmodule mod_rewrite.c>
+RewriteEngine On
+
+#Defino el directorio base para el sitio
+#RewriteBase /tabs/cells/
+#RewriteBase /exprinter/v2/
+
+#Si la url solicitada no es un fichero(existente), continuar...
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#Si la url solicitada no es una carpeta(existente), continuar...
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#se toma todo ese -query_string- y se pasa como parametro route
+RewriteRule ^(.*)$ index.php?route=$1 [L,QSA]
+
+</ifmodule>

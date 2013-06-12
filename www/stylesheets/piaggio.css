@@ -1,0 +1,62 @@
+html, body {
+	height: 100%;
+}
+body {
+	min-height:100%;
+	color: #ffffff;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #ffffff;
+}
+.right{
+	float: right !important;
+}
+.left{
+	float: left !important;
+}
+
+nav {
+	background: #000000;
+	padding:10px;
+	-webkit-border-radius: 0px 0px 10px 10px;
+	border-radius: 0px 0px 10px 10px;
+}
+nav a {
+	color: #aaaaaa;
+}
+
+nav ul,
+nav li{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+nav li a{
+	padding:1px 0px;
+	display: block;
+}
+nav li{
+	border-bottom: 1px solid #ffffff;
+	text-transform: uppercase;
+}
+nav ul ul{
+	display: none;
+}
+nav ul ul li{
+	border:none;
+}
+
+section{
+	text-align: justify;
+}
+
+#wrapper {
+	min-height:100%;
+}
+#header {
+	background: #000000;
+}
