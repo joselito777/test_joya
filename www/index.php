@@ -82,8 +82,8 @@
 			</nav>
 
 			
-			<section class="columns eight right">
-				<img src="">
+			<section class="columns sectionContent eleven right">
+				<img src="images/piaggio-hp_Layout-1-5.jpg">
 				Wenn man von einem Geschäft behaupten kann, dass es mit dem Herzen geführt wird, so trifft dies auf
 				uns zu. Seit mehr als zehn Jahren pflegen wir konsequent die alte Tradition des Goldschmiedehandwerks
 				mit mehr als nur dem Blick auf den wirtschaftlichen Erfolg. Die permanente Auseinandersetzung mit Platin- und Goldschmiedetechniken führte uns zu einem eigenen experimentierfreudigen und kreativen Stil.
