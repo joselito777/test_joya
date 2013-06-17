@@ -25,8 +25,14 @@ nav {
 	-webkit-border-radius: 0px 0px 10px 10px;
 	border-radius: 0px 0px 10px 10px;
 }
-nav a {
+nav a:visited,
+nav a:focus,
+nav a:visited {
 	color: #aaaaaa;
+}
+nav a:hover,
+nav a.active {
+	color: #ffffff;
 }
 
 nav ul,
@@ -45,6 +51,9 @@ nav li{
 }
 nav ul ul{
 	display: none;
+}
+nav ul li.active ul{
+	display: inherit;
 }
 nav ul ul li{
 	border:none;

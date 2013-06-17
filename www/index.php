@@ -26,18 +26,18 @@
 	<![endif]-->
 
 </head>
-<body>
+<body class="home">
 	<div id="wrapper">
 		<div id="header">
 			<div class="container">
-				<h1><a href="/" class="logo" title="Piaggio">GOLDSCHMIEDE ATELIER PIAGGIO</a></h1>
+				<h1><a href="index.php" class="logo" title="Piaggio">GOLDSCHMIEDE ATELIER PIAGGIO</a></h1>
 				<div class="links">
-					<a href="" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
-					<a href="" target="_blank" title="">www.goldschmiede-shop.com</a> · 
-					<a href="" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
-					<a href="" target="_blank" title="">FACEBOOK</a> - 
-					<a href="" target="_blank" title="">BLOG</a> - 
-					<a href="" target="_blank" title="">IMPRESSUM</a>
+					<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
+					<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
+					<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
+					<a href="#" target="_blank" title="">FACEBOOK</a> - 
+					<a href="#" target="_blank" title="">BLOG</a> - 
+					<a href="#" target="_blank" title="">IMPRESSUM</a>
 				</div>
 				<h2>
 					GOLDSCHMIEDEATELIER PIAGGIO<br />
@@ -53,29 +53,60 @@
 			<nav class="columns three">
 				<ul>
 					<li>
-						<a href="#">Secction 1</a>
+						<a href="perlen.php">HOME</a>
+					</li>
+					<li>
+						<a href="perlen.php">PERLEN</a>
 						<ul>
-							<li><a href="#">Subsection 1 1</a></li>
-							<li><a href="#">Subsection 1 2</a></li>
-							<li><a href="#">Subsection 1 3</a></li>
+							<li><a href="perlen.php">TAHITI-PERLEN</a></li>
+							<li><a href="perlen.php">SÜDSEE-PERLEN</a></li>
+							<li><a href="perlen.php">AKOYA-PERLEN</a></li>
+							<li><a href="perlen.php">CHIN. SÜDWASER-PERLEN</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="#">Secction 2</a>
+						<a href="perlen.php">DIAMENTEN 3</a>
 						<ul>
-							<li><a href="#">Subsection 2 1</a></li>
-							<li><a href="#">Subsection 2 2</a></li>
-							<li><a href="#">Subsection 2 3</a></li>
-							<li><a href="#">Subsection 2 4</a></li>
+							<li><a href="perlen.php">DIAMENTEN 3 1</a></li>
+							<li><a href="perlen.php">DIAMENTEN 3 2</a></li>
+							<li><a href="perlen.php">DIAMENTEN 3 3</a></li>
+							<li><a href="perlen.php">DIAMENTEN 3 4</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="#">Secction 3</a>
+						<a href="perlen.php">FARBEDELSTEINE 3</a>
 						<ul>
-							<li><a href="#">Subsection 3 1</a></li>
-							<li><a href="#">Subsection 3 2</a></li>
-							<li><a href="#">Subsection 3 3</a></li>
-							<li><a href="#">Subsection 3 4</a></li>
+							<li><a href="perlen.php">FARBEDELSTEINE 3 1</a></li>
+							<li><a href="perlen.php">FARBEDELSTEINE 3 2</a></li>
+							<li><a href="perlen.php">FARBEDELSTEINE 3 3</a></li>
+							<li><a href="perlen.php">FARBEDELSTEINE 3 4</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="perlen.php">PLATIN + GOLD 3</a>
+						<ul>
+							<li><a href="perlen.php">PLATIN + GOLD 3 1</a></li>
+							<li><a href="perlen.php">PLATIN + GOLD 3 2</a></li>
+							<li><a href="perlen.php">PLATIN + GOLD 3 3</a></li>
+							<li><a href="perlen.php">PLATIN + GOLD 3 4</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="perlen.php">ANGEBOTE 3</a>
+						<ul>
+							<li><a href="perlen.php">ANGEBOTE 3 1</a></li>
+							<li><a href="perlen.php">ANGEBOTE 3 2</a></li>
+							<li><a href="perlen.php">ANGEBOTE 3 3</a></li>
+							<li><a href="perlen.php">ANGEBOTE 3 4</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="perlen.php">KONTAKT 3</a>
+						<ul>
+							<li><a href="perlen.php">KONTAKT 3 1</a></li>
+							<li><a href="perlen.php">KONTAKT 3 2</a></li>
+							<li><a href="perlen.php">KONTAKT 3 3</a></li>
+							<li><a href="perlen.php">KONTAKT 3 4</a></li>
 						</ul>
 					</li>
 				</ul>
