@@ -59,4 +59,28 @@ section{
 }
 #header {
 	background: #000000;
+	padding: 10px 0;
+	font-size: 0.9em;
+}
+#header a {
+	color: #ffffff;
+}
+
+#header h1 {
+	float: left;
+	margin-right: 10px;
+}
+
+#header h1,
+#header h2,
+#header h3 {
+	font-size: 1em;
+	line-height: inherit;
+	font-family: inherit;
+	color: #ffffff;
+}
+
+#header .links {
+	float: right;
+	text-align: right;
 }
