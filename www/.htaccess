@@ -1,10 +1,6 @@
 <ifmodule mod_rewrite.c>
 RewriteEngine On
 
-#Defino el directorio base para el sitio
-#RewriteBase /tabs/cells/
-#RewriteBase /exprinter/v2/
-
 #Si la url solicitada no es un fichero(existente), continuar...
 RewriteCond %{REQUEST_FILENAME} !-f
 

@@ -26,26 +26,27 @@
 	<![endif]-->
 
 </head>
-<body>
+<body class="perlen">
 	<div id="wrapper">
 		<div id="header">
 			<div class="container">
-				<h1><a href="index.php" class="logo" title="Piaggio">GOLDSCHMIEDE ATELIER PIAGGIO</a></h1>
+				<h1><a href="index.php" class="logo" title="Piaggio">Goldschmiede Atelier Piaggio</a></h1>
 				<div class="links">
 					<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
 					<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
 					<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
-					<a href="#" target="_blank" title="">FACEBOOK</a> - 
-					<a href="#" target="_blank" title="">BLOG</a> - 
-					<a href="#" target="_blank" title="">IMPRESSUM</a>
+					<a href="#" target="_blank" class="uppercase" title="">Facebook</a> - 
+					<a href="#" target="_blank" class="uppercase" title="">Blog</a> - 
+					<a href="#" target="_blank" class="uppercase" title="">Impressum</a>
 				</div>
-				<h2>
-					GOLDSCHMIEDEATELIER PIAGGIO<br />
-					ERLEBNISSE IN GOLD & PLATIN
+				<h2 class="uppercase">
+					Goldschmiedeatelier Piaggio<br />
+					Erlebnisee In Gold & Platin
 				</h2>				
 				<h3>
-					THEATERSTRASSE 23 · 37073 GÖTTINGEN<br />
-					TELEFON 0551 - 541136 · <a href="mailto:npiaggio@goldschmiede-piaggio.de">npiaggio@goldschmiede-piaggio.de</a>
+					<span class="uppercase">
+					Theaterstrasse 23 · 37073 Göttingen<br />
+					Telefon 0551 - 541136</span> · <a href="mailto:npiaggio@goldschmiede-piaggio.de">npiaggio@goldschmiede-piaggio.de</a>
 				</h3>
 			</div>
 		</div>
@@ -53,60 +54,60 @@
 			<nav class="columns three">
 				<ul>
 					<li>
-						<a href="perlen.php">HOME</a>
+						<a href="perlen.php">Home</a>
 					</li>
 					<li class="active">
-						<a class="active" href="perlen.php">PERLEN</a>
+						<a class="active" href="perlen.php">Perlen</a>
 						<ul>
-							<li><a class="active" href="perlen.php">TAHITI-PERLEN</a></li>
-							<li><a href="perlen.php">SÜDSEE-PERLEN</a></li>
-							<li><a href="perlen.php">AKOYA-PERLEN</a></li>
-							<li><a href="perlen.php">CHIN. SÜDWASER-PERLEN</a></li>
+							<li><a class="active" href="perlen.php">Tahiti-Perlen</a></li>
+							<li><a href="perlen.php">Südsee-Perlen</a></li>
+							<li><a href="perlen.php">Akoya-Perlen</a></li>
+							<li><a href="perlen.php">Chin. Südwaser-Perlen</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="perlen.php">DIAMENTEN 3</a>
+						<a href="perlen.php">Diamenten 3</a>
 						<ul>
-							<li><a href="perlen.php">DIAMENTEN 3 1</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 2</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 3</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 4</a></li>
+							<li><a href="perlen.php">Diamenten 3 1</a></li>
+							<li><a href="perlen.php">Diamenten 3 2</a></li>
+							<li><a href="perlen.php">Diamenten 3 3</a></li>
+							<li><a href="perlen.php">Diamenten 3 4</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="perlen.php">FARBEDELSTEINE 3</a>
+						<a href="perlen.php">Farbedelsteine 3</a>
 						<ul>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 1</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 2</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 3</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 4</a></li>
+							<li><a href="perlen.php">Farbedelsteine 3 1</a></li>
+							<li><a href="perlen.php">Farbedelsteine 3 2</a></li>
+							<li><a href="perlen.php">Farbedelsteine 3 3</a></li>
+							<li><a href="perlen.php">Farbedelsteine 3 4</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="perlen.php">PLATIN + GOLD 3</a>
+						<a href="perlen.php">Platin + Gold 3</a>
 						<ul>
-							<li><a href="perlen.php">PLATIN + GOLD 3 1</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 2</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 3</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 4</a></li>
+							<li><a href="perlen.php">Platin + Gold 3 1</a></li>
+							<li><a href="perlen.php">Platin + Gold 3 2</a></li>
+							<li><a href="perlen.php">Platin + Gold 3 3</a></li>
+							<li><a href="perlen.php">Platin + Gold 3 4</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="perlen.php">ANGEBOTE 3</a>
+						<a href="perlen.php">Angebote 3</a>
 						<ul>
-							<li><a href="perlen.php">ANGEBOTE 3 1</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 2</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 3</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 4</a></li>
+							<li><a href="perlen.php">Angebote 3 1</a></li>
+							<li><a href="perlen.php">Angebote 3 2</a></li>
+							<li><a href="perlen.php">Angebote 3 3</a></li>
+							<li><a href="perlen.php">Angebote 3 4</a></li>
 						</ul>
 					</li>
 					<li>
-						<a href="perlen.php">KONTAKT 3</a>
+						<a href="perlen.php">Kontakt 3</a>
 						<ul>
-							<li><a href="perlen.php">KONTAKT 3 1</a></li>
-							<li><a href="perlen.php">KONTAKT 3 2</a></li>
-							<li><a href="perlen.php">KONTAKT 3 3</a></li>
-							<li><a href="perlen.php">KONTAKT 3 4</a></li>
+							<li><a href="perlen.php">Kontakt 3 1</a></li>
+							<li><a href="perlen.php">Kontakt 3 2</a></li>
+							<li><a href="perlen.php">Kontakt 3 3</a></li>
+							<li><a href="perlen.php">Kontakt 3 4</a></li>
 						</ul>
 					</li>
 				</ul>

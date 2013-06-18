@@ -1,3 +1,22 @@
+<?php
+	$folderRoot = dirname(__FILE__);
+	$homeRoot = 'http://localhost/';
+
+	require_once($folderRoot.'/includes/func_url.php');
+
+	$arrayPath = array();
+	if(isset($_SERVER['REQUEST_URI'])) {
+		$arrayPath = getVariablesURL($_SERVER['REQUEST_URI']);
+	}
+
+
+	if(isset($arrayPath[0]) && file_exists($folderRoot.'inc/'.$arrayPath[0].'php')){
+		$section = $arrayPath[0];
+	}
+	else {
+		$section = 'home';
+	}
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -28,108 +47,17 @@
 </head>
 <body class="home">
 	<div id="wrapper">
-		<div id="header">
-			<div class="container">
-				<h1><a href="index.php" class="logo" title="Piaggio">GOLDSCHMIEDE ATELIER PIAGGIO</a></h1>
-				<div class="links">
-					<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
-					<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
-					<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
-					<a href="#" target="_blank" title="">FACEBOOK</a> - 
-					<a href="#" target="_blank" title="">BLOG</a> - 
-					<a href="#" target="_blank" title="">IMPRESSUM</a>
-				</div>
-				<h2>
-					GOLDSCHMIEDEATELIER PIAGGIO<br />
-					ERLEBNISSE IN GOLD & PLATIN
-				</h2>				
-				<h3>
-					THEATERSTRASSE 23 · 37073 GÖTTINGEN<br />
-					TELEFON 0551 - 541136 · <a href="mailto:npiaggio@goldschmiede-piaggio.de">npiaggio@goldschmiede-piaggio.de</a>
-				</h3>
-			</div>
-		</div>
+		<?php
+		include($folderRoot.'/inc/layout/header.php');
+		?>
 		<div class="container">
-			<nav class="columns three">
-				<ul>
-					<li>
-						<a href="perlen.php">HOME</a>
-					</li>
-					<li>
-						<a href="perlen.php">PERLEN</a>
-						<ul>
-							<li><a href="perlen.php">TAHITI-PERLEN</a></li>
-							<li><a href="perlen.php">SÜDSEE-PERLEN</a></li>
-							<li><a href="perlen.php">AKOYA-PERLEN</a></li>
-							<li><a href="perlen.php">CHIN. SÜDWASER-PERLEN</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="perlen.php">DIAMENTEN 3</a>
-						<ul>
-							<li><a href="perlen.php">DIAMENTEN 3 1</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 2</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 3</a></li>
-							<li><a href="perlen.php">DIAMENTEN 3 4</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="perlen.php">FARBEDELSTEINE 3</a>
-						<ul>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 1</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 2</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 3</a></li>
-							<li><a href="perlen.php">FARBEDELSTEINE 3 4</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="perlen.php">PLATIN + GOLD 3</a>
-						<ul>
-							<li><a href="perlen.php">PLATIN + GOLD 3 1</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 2</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 3</a></li>
-							<li><a href="perlen.php">PLATIN + GOLD 3 4</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="perlen.php">ANGEBOTE 3</a>
-						<ul>
-							<li><a href="perlen.php">ANGEBOTE 3 1</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 2</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 3</a></li>
-							<li><a href="perlen.php">ANGEBOTE 3 4</a></li>
-						</ul>
-					</li>
-					<li>
-						<a href="perlen.php">KONTAKT 3</a>
-						<ul>
-							<li><a href="perlen.php">KONTAKT 3 1</a></li>
-							<li><a href="perlen.php">KONTAKT 3 2</a></li>
-							<li><a href="perlen.php">KONTAKT 3 3</a></li>
-							<li><a href="perlen.php">KONTAKT 3 4</a></li>
-						</ul>
-					</li>
-				</ul>
-			</nav>
-
-			
+			<?php
+			include($folderRoot.'/inc/layout/keypad.php');
+			?>	
 			<section class="columns sectionContent eleven right">
-				<img src="images/piaggio-hp_Layout-1-5.jpg">
-				Wenn man von einem Geschäft behaupten kann, dass es mit dem Herzen geführt wird, so trifft dies auf
-				uns zu. Seit mehr als zehn Jahren pflegen wir konsequent die alte Tradition des Goldschmiedehandwerks
-				mit mehr als nur dem Blick auf den wirtschaftlichen Erfolg. Die permanente Auseinandersetzung mit Platin- und Goldschmiedetechniken führte uns zu einem eigenen experimentierfreudigen und kreativen Stil.
-				Diese Elemente bilden unsere Philosophie, die allen Ansprüchen gerecht wird.
-				Alljährlich laden wir unsere Kunden zu aktuellen Vorträgen ein und informieren sie ausführlich über Perlen und Diamanten. Für diese Veranstaltungen konnten wir bereits bekannte Persönlichkeiten unserer
-				Branche gewinnen. Neben Elisabeth Strack, Hans Schoeffel und Gaby Tolkowsky fanden sich auch Jeanette Fiedler, Karl Mayer Amler, Erhard Brepohl und Gregor Schwarz bei uns als Referenten ein ebenso wie
-				Nicolas Piaggio, der seine Beiträge mit persönlichem Dokumentationsmaterial veranschaulichen konnte:
-				Bisher sind bereits zwei Publikationen erschienen: - "Aus dem Feuer in das Licht" über die Argyle Diamanten-Mine in Kununurra Australien (Göttingen 1998) und - "Streifzüge ins Licht" über die Südseeperlenzucht (Göttingen 1999).
-				Über die Zucht von Südseeperlen steht Ihnen auch ein Film unter dem gleichnamigen Titel aus eigener
-				Produktion (Göttingen 1999) zur Verfügung, um die unterschiedlichen Bedingungen und Zuchtverfahren
-				auszuführen.
-				Nicolas Piaggio
-				(*1954, verheiratet, drei Kinder) ist Gutachter für Diamanten und Spezialist rund um das Thema Perlen.
-				Seine zahlreichen Reisen zu verschiedenen Diamantfundorten und in diverse Perlenzuchtgebiete belegen
-				ein solides Sachverständnis. In seiner Funktion als Unterwasser-Fotograf wie auch als Journalist arbeitet
+				<?php
+				include($folderRoot.'/inc/'.$section.'.php');
+				?>
 			</section>
 		</div>
 	</div>

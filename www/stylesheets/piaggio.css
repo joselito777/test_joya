@@ -18,12 +18,16 @@ a:hover{
 .left{
 	float: left !important;
 }
+.uppercase {
+	text-transform: uppercase;
+}
 
 nav {
 	background: url(../images/layout/background.png);
 	padding:10px;
 	-webkit-border-radius: 0px 0px 10px 10px;
 	border-radius: 0px 0px 10px 10px;
+	text-transform: uppercase;
 }
 nav a:visited,
 nav a:focus,
@@ -115,6 +119,10 @@ section.sectionContent {
 	margin-bottom: 20px;
 	-webkit-box-shadow:  5px 5px 10px 1px #000000;
 	box-shadow:  5px 5px 10px 1px #000000;
+}
+
+section.sectionContent ul.listItems {
+	margin: 20px 0;
 }
 
 section.sectionContent ul.listItems li {
