@@ -16,5 +16,5 @@ $(function(){
 			$(this).children('ul').stop().slideUp(); }
 	});
 	
-	$('#header h1 a.logo').html('<img src="images/layout/logo.png" />')
+	$('#header h1 a.logo').html('<img src="images/layout/logo.png" />');
 })
