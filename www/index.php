@@ -67,7 +67,7 @@
 	<![endif]-->
 
 </head>
-<body class="home">
+<body class="<?=$arrayPath[0]?>">
 	<div id="wrapper">
 		<?php
 		include($folderRoot.'/inc/layout/header.php');

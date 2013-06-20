@@ -1,6 +1,8 @@
 $(function(){
-	$('body.home').ezBgResize({
-		img : homeRoot+'/images/layout/fusion-del-oro-624023.jpg',
+
+	var imageBg = getImageBG($('body').attr('class'));
+	$('body').ezBgResize({
+		img : homeRoot+'/images/layout/'+imageBg,
 		opacity : 1, 
 		center  : true 
 	});
@@ -23,3 +25,18 @@ $(function(){
 
 	$('#header h1 a.logo').html('<img src="'+homeRoot+'/images/layout/logo.png" />');
 })
+
+function getImageBG(section) {
+	var arrayImageBg = new Array(); 
+	arrayImageBg['home'] = 'fusion-del-oro-624023.jpg';
+	arrayImageBg['perlen'] = 'perlen.jpg';
+	arrayImageBg['default'] = 'fusion-del-oro-624023.jpg';
+
+	if(section in arrayImageBg) {
+		return arrayImageBg[section];
+	}
+	else {
+		return arrayImageBg['default'];	
+	}
+
+}
