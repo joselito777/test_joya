@@ -16,7 +16,10 @@ $(function(){
 			$(this).children('ul').stop().slideUp(); }
 	});
 	
-	$('.fancybox').fancybox();
+	$('.fancybox').fancybox({
+		nextSpeed : 500,
+		prevSpeed : 500
+	});
 
 	$('#header h1 a.logo').html('<img src="'+homeRoot+'/images/layout/logo.png" />');
 })
