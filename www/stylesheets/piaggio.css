@@ -29,7 +29,7 @@ nav {
 	border-radius: 0px 0px 10px 10px;
 	text-transform: uppercase;
 }
-nav a:visited,
+nav a:link,
 nav a:focus,
 nav a:visited {
 	color: #aaaaaa;
