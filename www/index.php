@@ -1,21 +1,35 @@
 <?php
 	$folderRoot = dirname(__FILE__);
-	$homeRoot = 'http://localhost/';
+	$homeRoot = 'http://localhost/piaggio/www';
 
 	require_once($folderRoot.'/includes/func_url.php');
+	require_once($folderRoot.'/includes/defines.php');
 
 	$arrayPath = array();
 	if(isset($_SERVER['REQUEST_URI'])) {
 		$arrayPath = getVariablesURL($_SERVER['REQUEST_URI']);
 	}
 
+	switch ($arrayPath[0]) {
+		case 'perlen':
+		case 'diamenten':
+		case 'farbedelsteine':
+		case 'platin-gold':
+		case 'angebote': {
+			$actualSection = 'perlen';
+		};
+		break;
+		
+		default: {
+			$actualSection = 'home';	
+		}
+		break;
+	}
 
-	if(isset($arrayPath[0]) && file_exists($folderRoot.'inc/'.$arrayPath[0].'php')){
-		$section = $arrayPath[0];
+	if(!file_exists($folderRoot.'/inc/'.$actualSection.'.php')){
+		$actualSection = 'home';
 	}
-	else {
-		$section = 'home';
-	}
+
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
@@ -30,15 +44,23 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<link rel="stylesheet" href="stylesheets/base.css">
-	<link rel="stylesheet" href="stylesheets/piaggio.css">
-	<link rel="stylesheet" href="stylesheets/skeleton.css">
-	<link rel="stylesheet" href="stylesheets/layout.css">
+	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/base.css">
+	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/piaggio.css">
+	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/layout.css">
+	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/jquery.fancybox.css">
 
-	<script src="scripts/jquery-1.10.1.min.js"></script>
-	<script src="scripts/jquery.ez-bg-resize.js"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.ez-bg-resize.js"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.mousewheel-3.0.6.pack.js"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.fancybox.pack.js?v=2.1.5"></script>
 
-	<script src="scripts/functions.js"></script>
+
+	<script>
+		homeRoot = '<?=$homeRoot?>';
+	</script>
+	<script src="<?=$homeRoot?>/scripts/functions.js"></script>
+
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -56,7 +78,7 @@
 			?>	
 			<section class="columns sectionContent eleven right">
 				<?php
-				include($folderRoot.'/inc/'.$section.'.php');
+				include($folderRoot.'/inc/'.$actualSection.'.php');
 				?>
 			</section>
 		</div>

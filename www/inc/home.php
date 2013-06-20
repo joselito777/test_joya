@@ -1,4 +1,4 @@
-<img src="images/piaggio-hp_Layout-1-5.jpg">
+<img src="<?=$homeRoot?>/images/piaggio-hp_Layout-1-5.jpg">
 <p>
 	Wenn man von einem Geschäft behaupten kann, dass es mit dem Herzen geführt wird, so trifft dies auf
 	uns zu. Seit mehr als zehn Jahren pflegen wir konsequent die alte Tradition des Goldschmiedehandwerks

@@ -1,9 +1,8 @@
 <?php
-
 function getVariablesURL($url){
 	
 	if($_SERVER['HTTP_HOST']=="localhost") {
-		$url = preg_replace('/\/piagiio\/v2\/www\//','',$url);
+		$url = preg_replace('/\/piaggio\/www\//','',$url);
 	}
 	else {
 		$url = substr($url,1);
