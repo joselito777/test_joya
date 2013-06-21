@@ -1,6 +1,6 @@
 <?php
 	$folderRoot = dirname(__FILE__);
-	$homeRoot = 'http://localhost/piaggio/www';
+	$homeRoot = 'http://piaggio.herokuapp.com/';
 
 	require_once($folderRoot.'/includes/func_url.php');
 	require_once($folderRoot.'/includes/defines.php');
