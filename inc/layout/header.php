@@ -1,6 +1,6 @@
 <div id="header">
 	<div class="container">
-		<h1><a href="index.php" class="logo" title="Piaggio">Goldschmiede Atelier Piaggio</a></h1>
+		<h1><a href="<?=$homeRoot?>/" class="logo" title="Piaggio">Goldschmiede Atelier Piaggio</a></h1>
 		<div class="links">
 			<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
 			<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
