@@ -23,7 +23,7 @@ a:hover{
 }
 
 nav {
-	background: url(../images/layout/background.png);
+	background: url(../images/layout/background_30.png);
 	padding:10px;
 	-webkit-border-radius: 0px 0px 10px 10px;
 	border-radius: 0px 0px 10px 10px;
@@ -110,15 +110,15 @@ section h3 {
 }
 
 section.sectionContent {
-	background: url(../images/layout/background.png);
+	background: url(../images/layout/background_30.png);
 	padding:20px;
 	-webkit-border-radius: 0px 0px 10px 10px;
 	border-radius: 0px 0px 10px 10px;
 	border: 1px solid #ffffff;
 	border-top: 0;
 	margin-bottom: 20px;
-	-webkit-box-shadow:  5px 5px 10px 1px #000000;
-	box-shadow:  5px 5px 10px 1px #000000;
+	-webkit-box-shadow:  5px 5px 10px 3px #000000;
+	box-shadow:  5px 5px 10px 3px #000000;
 }
 
 section.sectionContent ul.listItems {
