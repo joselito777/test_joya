@@ -42,7 +42,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name='viewport' content='width=1024,user-scalable=yes'>
 
 	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/base.css">
 	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/piaggio.css">
