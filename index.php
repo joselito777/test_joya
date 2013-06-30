@@ -1,6 +1,14 @@
 <?php
 	$folderRoot = dirname(__FILE__);
-	$homeRoot = 'http://piaggio.herokuapp.com';
+	
+	if($_SERVER['HTTP_HOST']=="localhost") {
+		$homeRoot = 'http://localhost/piaggio';
+	}
+	else {
+		$homeRoot = 'http://piaggio.herokuapp.com';
+	}
+	
+	
 
 	require_once($folderRoot.'/includes/func_url.php');
 	require_once($folderRoot.'/includes/defines.php');
@@ -16,7 +24,7 @@
 		case 'farbedelsteine':
 		case 'platin-gold':
 		case 'angebote': {
-			$actualSection = 'perlen';
+			$actualSection = 'section';
 		};
 		break;
 		
@@ -67,7 +75,7 @@
 	<![endif]-->
 
 </head>
-<body class="<?=$arrayPath[0]?>">
+<body class="<?=isset($arrayPath[0])? $arrayPath[0] : ''?> <?=isset($arrayPath[1])? $arrayPath[1] : ''?>">
 	<div id="wrapper">
 		<?php
 		include($folderRoot.'/inc/layout/header.php');

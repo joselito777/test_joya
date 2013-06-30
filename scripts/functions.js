@@ -2,7 +2,7 @@ $(function(){
 
 	var imageBg = getImageBG($('body').attr('class'));
 	$('body').ezBgResize({
-		img : homeRoot+'/images/layout/'+imageBg,
+		img : homeRoot+'/images/backgrounds/'+imageBg,
 		opacity : 1, 
 		center  : true 
 	});
@@ -27,13 +27,28 @@ $(function(){
 })
 
 function getImageBG(section) {
+	arraySection = section.split(" ");;
 	var arrayImageBg = new Array(); 
-	arrayImageBg['home'] = 'fusion-del-oro-624023.jpg';
-	arrayImageBg['perlen'] = 'perlen.jpg';
-	arrayImageBg['default'] = 'fusion-del-oro-624023.jpg';
 
-	if(section in arrayImageBg) {
-		return arrayImageBg[section];
+	arrayImageBg = {
+		'home' : {
+			'default' : 'fusion-del-oro-624023.jpg'},
+		'perlen' : {
+			'tahiti-perlen' : 'napo-uw-greatb-reef.jpg',
+			'default' : 'perlen.jpg'	
+		}, 
+		'default' : 'fusion-del-oro-624023.jpg'
+	}
+
+	if(arraySection[0] in arrayImageBg) {
+		auxSection = arraySection[0];
+		if(arraySection[1] in arrayImageBg[auxSection]) {
+			auxSectionSub = arraySection[1];
+			return arrayImageBg[auxSection][auxSectionSub];
+		}
+		else{
+			return arrayImageBg[auxSection]['default'];	
+		}
 	}
 	else {
 		return arrayImageBg['default'];	

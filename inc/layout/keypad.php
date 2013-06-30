@@ -2,7 +2,7 @@
 	<ul>
 		<?php
 		foreach ($sections as $keySec => $valueSec) {
-			$activeSection = ($arrayPath[0] == $keySec)? 'active' : '';
+			$activeSection = (isset($arrayPath[0]) && $arrayPath[0] == $keySec)? 'active' : '';
 			$auxLink = $homeRoot.'/'.$keySec;
 			?>
 				<li class="<?=$activeSection?>" > 
@@ -13,7 +13,7 @@
 						<ul>
 							<?php
 							foreach ($subSections[$keySec] as $keySubSec => $valueSubSec) {
-								$activeSubSection = ($arrayPath[1] == $keySubSec)? 'active' : '';
+								$activeSubSection = (isset($arrayPath[1]) && $arrayPath[1] == $keySubSec)? 'active' : '';
 								$auxLink = $homeRoot.'/'.$keySec.'/'.$keySubSec;
 								?>
 								<li>
