@@ -1,10 +1,9 @@
-<h3>Tahiti-Perlen</h3>
+<h3>Sample</h3>
 <p>
-	In den Tiefen der Lagunen des Tuamoto Archipels, abgelegen der Zivilisation der Cook Islands oder den
-	Südprovinzen Chinas, werden die sogenannten "Schwarzen Perlen" gezüchtet. Nach jahrelangen Ausei-
-	nandersetzungen haben die Polynesier ihre Geheimnisse der Perlenzucht offenbart. Heute, es ist noch
-	möglich, in etwa mehr als einem Dutzend polynesischen Atollen, die nicht überfischt sind, werden Larven
-	der Austern gesammelt. Dies stellt den ersten Vorgang der Perlenzucht dar.
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit magna eu elit pretium, bibendum sagittis ante semper. 
+	Fusce nec eros sed quam cursus pellentesque quis nec enim. Suspendisse potenti. Vivamus at elit non mauris elementum imperdiet. 
+	Proin non leo id mauris varius aliquet. Vivamus pellentesque posuere pellentesque. Morbi eu nulla tempor, suscipit nunc non, cursus nibh. 
+	Mauris vel porta mi.
 </p>
 <ul class="listItems">
 	<li><a class="fancybox" rel="group" href="<?=$homeRoot?>/images/perlen/perlen_01.jpg" title="Perlen 1"><img src="<?=$homeRoot?>/images/perlen/perlen_01.jpg" alt="perlen 1" /></a></li>
