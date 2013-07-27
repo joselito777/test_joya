@@ -17,12 +17,16 @@
 	}
 
 	switch ($arrayPath[0]) {
+		case 'internetshop': 
 		case 'perlen':
 		case 'diamenten':
 		case 'farbedelsteine':
-		case 'platin-gold':
-		case 'angebote': {
+		case 'platin-gold':{
 			$actualSection = 'section';
+		};
+		break;
+		case 'impressum':{
+			$actualSection = 'impressum';
 		};
 		break;
 		
@@ -61,12 +65,10 @@
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.mousewheel-3.0.6.pack.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.fancybox.pack.js?v=2.1.5"></script>
 
-
 	<script>
 		homeRoot = '<?=$homeRoot?>';
 	</script>
 	<script src="<?=$homeRoot?>/scripts/functions.js"></script>
-
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

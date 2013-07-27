@@ -1,12 +1,17 @@
 <?php
  	$sections = array(
  		'home' => 'Home', 
+ 		'internetshop' => 'Intershop',
  		'perlen' => 'Perlen', 
  		'diamenten' => 'Diamenten', 
  		'farbedelsteine' => 'Farbedelsteine', 
  		'platin-gold' => 'Platin + Gold',
- 		'angebote' => 'Angebote',
- 		'kontakt' => 'Kontakt'
+ 		'kontakt' => 'Kontakt',
+ 		'impressum' => 'Impressum'
+ 	);
+ 	$sectionsHiddens = array(
+ 		'kontakt' => 'Kontakt',
+ 		'impressum' => 'Impressum'
  	);
 
  	$subSections = array(
@@ -35,10 +40,10 @@
  			'platin-gold-e' => 'Platin + Gold E',
  			'platin-gold-f' => 'Platin + Gold F'
  		),
- 		'angebote' => array(
- 			'angebote-a' => 'Angebote A',
- 			'angebote-b' => 'Angebote B',
- 			'angebote-c' => 'Angebote C'
+ 		'internetshop' => array(
+ 			'internetshop-a' => 'Internetshop A',
+ 			'internetshop-b' => 'Internetshop B',
+ 			'internetshop-c' => 'Internetshop C'
  		)
  	);
 ?>
