@@ -8,7 +8,7 @@
 			<a href="#" target="_blank" class="uppercase" title="">Facebook</a> - 
 			<a href="#" target="_blank" class="uppercase" title="">Blog</a> - 
 			<a href="<?=$homeRoot?>/impressum" class="uppercase" title="">Impressum</a> -
-			<a href="<?=$homeRoot?>/kontackt" class="uppercase" title="">Kontackt</a>
+			<a href="<?=$homeRoot?>/kontakt" class="uppercase" title="">Kontakt</a>
 		</div>
 		<h2 class="uppercase">
 			Goldschmiedeatelier Piaggio<br />
