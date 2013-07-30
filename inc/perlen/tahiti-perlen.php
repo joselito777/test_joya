@@ -48,8 +48,10 @@
 	möglich, in etwa mehr als einem Dutzend polynesischen Atollen, die nicht überfischt sind, werden Larven
 	der Austern gesammelt. Dies stellt den ersten Vorgang der Perlenzucht dar.
 </p>
+<? /*
 <ul class="listItems">
 	<?
+		/*
 		foreach ($thumbnails as $keyTh => $valueth) {
 			?>
 			<li>
@@ -59,5 +61,22 @@
 			</li>
 			<?
 		}
+		* /
 	?>
 <ul>
+*/ ?>
+<div id="" class="mycarousel principal jcarousel-skin-tango">
+	<ul class="">
+		<?
+		foreach ($thumbnails as $keyTh => $valueth) {
+			?>
+			<li>
+				<a class="fancybox" rel="group" href="<?=$pathPhts?>/<?=$photos[$keyTh]?>" title="Perlen 1">
+					<img src="<?=$pathPhts//$pathThms?>/<?=$photos[$keyTh]//$valueth?>" alt="perlen 1" />
+				</a>
+			</li>
+			<?
+		}
+	?>
+	</ul>
+</div>

@@ -24,6 +24,16 @@ $(function(){
 	});
 
 	$('#header h1 a.logo').html('<img src="'+homeRoot+'/images/layout/logo.png" />');
+	
+	$(".mycarousel").jcarousel({
+		visible:1,
+		scroll: 1,
+		auto: 3, // seconds
+		wrap: "both",
+		// This tells jCarousel NOT to autobuild prev/next buttons
+		buttonNextHTML: null,
+		buttonPrevHTML: null
+	});
 })
 
 function getImageBG(section) {
@@ -56,5 +66,4 @@ function getImageBG(section) {
 	else {
 		return arrayImageBg['default'];	
 	}
-
 }

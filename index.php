@@ -64,6 +64,8 @@
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.ez-bg-resize.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.mousewheel-3.0.6.pack.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.fancybox.pack.js?v=2.1.5"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery-migrate-1.1.1.min.js"></script>
+	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.jcarousel.min.js"></script>
 
 	<script>
 		homeRoot = '<?=$homeRoot?>';
