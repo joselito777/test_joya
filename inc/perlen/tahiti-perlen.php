@@ -51,9 +51,7 @@
 		foreach ($thumbnails as $keyTh => $valueth) {
 			?>
 			<li>
-				<a class="fancybox" rel="group" href="<?=$pathImages?>/<?=$photos[$keyTh]?>" title="Perlen 1">
-					<img src="<?=$pathImages?>/<?=$photos[$keyTh]?>" alt="perlen 1" />
-				</a>
+					<img src="<?=$pathImages?>/<?=$photos[$keyTh]?>" alt="perlen 1" />	
 			</li>
 			<?
 		}
