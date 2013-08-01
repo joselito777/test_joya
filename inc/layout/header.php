@@ -1,23 +1,33 @@
+<?php
+	$auxUrlLocation = '';
+	$auxUrlLocation .= (isset($arrayPath[1]))? '/'.$arrayPath[1] : '';
+	$auxUrlLocation .= (isset($arrayPath[2]))? '/'.$arrayPath[2] : '';
+?>
 <div id="header">
 	<div class="container">
 		<h1><a href="<?=$homeRoot?>/" class="logo" title="Piaggio">Goldschmiede Atelier Piaggio</a></h1>
+
 		<div class="links">
+			<div class=" flags">
+				<a href="<?=$homeRoot?>/de<?=$auxUrlLocation?>"><img src="<?=$homeRoot?>/images/layout/de.png" ></a>
+				<a href="<?=$homeRoot?>/en<?=$auxUrlLocation?>"><img src="<?=$homeRoot?>/images/layout/gb.png" ></a>
+				<a href="<?=$homeRoot?>/fr<?=$auxUrlLocation?>"><img src="<?=$homeRoot?>/images/layout/fr.png" ></a>
+				<a href="<?=$homeRoot?>/la<?=$auxUrlLocation?>"><img src="<?=$homeRoot?>/images/layout/ar.png" ></a>
+			</div>
 			<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
 			<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
 			<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
 			<a href="#" target="_blank" class="uppercase" title="">Facebook</a> - 
 			<a href="#" target="_blank" class="uppercase" title="">Blog</a> - 
-			<a href="<?=$homeRoot?>/impressum" class="uppercase" title="">Impressum</a> -
-			<a href="<?=$homeRoot?>/kontakt" class="uppercase" title="">Kontakt</a>
+			<a href="<?=$homeRoot?>/impressum" class="uppercase" title=""><?=$dictionaryHeader['impressum']?></a> -
+			<a href="<?=$homeRoot?>/kontakt" class="uppercase" title=""><?=$dictionaryHeader['kontakt']?></a>
 		</div>
 		<h2 class="uppercase">
-			Goldschmiedeatelier Piaggio<br />
-			Erlebnisee In Gold & Platin
+			<?=$dictionaryHeader['goldschmiedeatelier']?>
 		</h2>
 		<h3>
-			<span class="uppercase">
-			Theaterstrasse 23 · D – 37073 Göttingen<br />
-			Telefon 00 49 551 541136</span> · <a href="mailto:npiaggio@goldschmiede-piaggio.de">npiaggio@goldschmiede-piaggio.de</a>
+			<span class="uppercase"><?=$dictionaryHeader['address']?></span> ·
+			<a href="mailto:npiaggio@goldschmiede-piaggio.de">npiaggio@goldschmiede-piaggio.de</a>
 		</h3>
 	</div>
 </div>

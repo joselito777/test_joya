@@ -1,6 +1,5 @@
 <?php
 function getVariablesURL($url){
-	
 	if($_SERVER['HTTP_HOST']=="localhost") {
 		$url = preg_replace('/\/piaggio\//','',$url);
 	}
@@ -10,7 +9,7 @@ function getVariablesURL($url){
 	$url = preg_replace('/\/$/', '', $url);
 	$partes = explode('/', $url);
 	$cantPartes = count($partes);
-		
+
 	$variables = array();
 	for($c = 0; $c < $cantPartes; $c++){
 		$variables[] = limpiar($partes[$c]);
@@ -28,6 +27,5 @@ function permalink($string){
 
 function limpiar($valor){
 	return preg_replace('/[^a-zA-Z0-9-_]/', '', $valor);
-
 }	
 ?>

@@ -1,12 +1,12 @@
 <?
-	if(isset($arrayPath[0])){
-		$fileToInc = $folderRoot.'/inc/'.$arrayPath[0].'/'.$arrayPath[0].'.php';
+	if(isset($arrayPath[1])){
+		$fileToInc = $folderRoot.'/inc/'.$arrayPath[1].'/'.$arrayPath[1].'.php';
 		if (!is_file($fileToInc)) {
 			echo "error 404";	
 		}
 	}
 	else{
-		$fileToInc = $folderRoot.'/inc/'.$arrayPath[0].'/'.$arrayPath[0].'.php';
+		$fileToInc = $folderRoot.'/inc/'.$arrayPath[1].'/'.$arrayPath[1].'.php';
 	}
 	include($fileToInc);
 ?>

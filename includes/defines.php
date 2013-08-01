@@ -1,13 +1,13 @@
 <?php
  	$sections = array(
- 		'home' => 'Home', 
- 		'internetshop' => 'Intershop',
- 		'perlen' => 'Perlen', 
- 		'diamenten' => 'Diamenten', 
- 		'farbedelsteine' => 'Farbedelsteine', 
- 		'platin-gold' => 'Platin + Gold',
- 		'kontakt' => 'Kontakt',
- 		'impressum' => 'Impressum'
+ 		'home', 
+ 		'internetshop',
+ 		'perlen', 
+ 		'diamenten', 
+ 		'farbedelsteine', 
+ 		'platin-gold',
+ 		'kontakt',
+ 		'impressum'
  	);
  	$sectionsHiddens = array(
  		'kontakt' => 'Kontakt',
@@ -16,34 +16,34 @@
 
  	$subSections = array(
  		'perlen' => array(
- 			'tahiti-perlen' => 'Tahiti-Perlen',
- 			'sudsee-perlen' => 'Südsee-Perlen',
- 			'akoya-perlen' => 'Akoya-Perlen',
- 			'chin-sudwaser-perlen' => 'Chin. Südwaser-Perlen',
+ 			'tahiti-perlen',
+ 			'sudsee-perlen',
+ 			'akoya-perlen',
+ 			'chin-sudwaser-perlen',
  		 ), 
  		'diamenten' => array(
- 			'diamenten-a' => 'Diamenten A',
- 			'diamenten-b' => 'Diamenten B',
- 			'diamenten-c' => 'Diamenten C',
- 			'diamenten-d' => 'Diamenten D',
+ 			'diamenten-a',
+ 			'diamenten-b',
+ 			'diamenten-c',
+ 			'diamenten-d',
  		), 
  		'farbedelsteine' => array(
- 			'farbedelsteine-a' => 'Farbedelsteine A',
- 			'farbedelsteine-b' => 'Farbedelsteine B',
- 			'farbedelsteine-c' => 'Farbedelsteine C'
+ 			'farbedelsteine-a',
+ 			'farbedelsteine-b',
+ 			'farbedelsteine-c'
  		), 
  		'platin-gold' => array(
- 			'platin-gold-a' => 'Platin + Gold A',
- 			'platin-gold-b' => 'Platin + Gold B',
- 			'platin-gold-c' => 'Platin + Gold C',
- 			'platin-gold-d' => 'Platin + Gold D',
- 			'platin-gold-e' => 'Platin + Gold E',
- 			'platin-gold-f' => 'Platin + Gold F'
+ 			'platin-gold-a',
+ 			'platin-gold-b',
+ 			'platin-gold-c',
+ 			'platin-gold-d',
+ 			'platin-gold-e',
+ 			'platin-gold-f'
  		),
  		'internetshop' => array(
- 			'internetshop-a' => 'Internetshop A',
- 			'internetshop-b' => 'Internetshop B',
- 			'internetshop-c' => 'Internetshop C'
+ 			'internetshop-a',
+ 			'internetshop-b',
+ 			'internetshop-c'
  		)
  	);
 ?>

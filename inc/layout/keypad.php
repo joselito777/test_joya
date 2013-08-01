@@ -1,24 +1,28 @@
 <nav class="columns three">
 	<ul>
 		<?php
-		foreach ($sections as $keySec => $valueSec) {
+		foreach ($sections as $keySec) {
 			if(!isset($sectionsHiddens[$keySec])){
-				$activeSection = (isset($arrayPath[0]) && $arrayPath[0] == $keySec)? 'active' : '';
-				$auxLink = $homeRoot.'/'.$keySec;
+				$activeSection = (isset($arrayPath[1]) && $arrayPath[1] == $keySec)? 'active' : '';
+				$auxLink = $homeRoot.'/'.$language.'/'.$keySec;
 				?>
 					<li class="<?=$activeSection?>" >
-						<a class="<?=$activeSection?>" href="<?=$auxLink?>" title="<?=$valueSec?>"><?=$valueSec?></a>
+						<a class="<?=$activeSection?>" href="<?=$auxLink?>" title="<?=$dictionarySections[$keySec]?>">
+							<?=$dictionarySections[$keySec]?>
+						</a>
 						<?php
 						if(isset($subSections[$keySec])){
 							?>
 							<ul>
 								<?php
-								foreach ($subSections[$keySec] as $keySubSec => $valueSubSec) {
-									$activeSubSection = (isset($arrayPath[1]) && $arrayPath[1] == $keySubSec)? 'active' : '';
-									$auxLink = $homeRoot.'/'.$keySec.'/'.$keySubSec;
+								foreach ($subSections[$keySec] as $keySubSec) {
+									$activeSubSection = (isset($arrayPath[2]) && $arrayPath[2] == $keySubSec)? 'active' : '';
+									$auxLink .= '/'.$keySubSec;
 									?>
 									<li>
-										<a class="<?=$activeSubSection?>" href="<?=$auxLink?>" title="<?=$valueSubSec?>"><?=$valueSubSec?></a>
+										<a class="<?=$activeSubSection?>" href="<?=$auxLink?>" title="<?=$dictionarySubSections[$keySec][$keySubSec]?>">
+											<?=$dictionarySubSections[$keySec][$keySubSec]?>
+										</a>
 									</li>
 									<?php
 								}

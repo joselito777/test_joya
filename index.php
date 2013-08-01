@@ -16,7 +16,20 @@
 		$arrayPath = getVariablesURL($_SERVER['REQUEST_URI']);
 	}
 
-	switch ($arrayPath[0]) {
+	switch($arrayPath[0]){
+		case 'de' :
+		case 'en' :
+		case 'fr' :
+		case 'la' : {
+			$language = $arrayPath[0];
+		}; break;
+		default : {
+			$language = 'de';
+		}; break;
+	}
+	require_once($folderRoot.'/languages/dictionary_'.$language.'.php');
+
+	switch ($arrayPath[1]) {
 		case 'internetshop':
 		case 'perlen':
 		case 'diamenten':
@@ -76,7 +89,7 @@
 	<![endif]-->
 
 </head>
-<body class="<?=isset($arrayPath[0])? $arrayPath[0] : ''?> <?=isset($arrayPath[1])? $arrayPath[1] : ''?>">
+<body class="<?=isset($arrayPath[1])? $arrayPath[1] : ''?> <?=isset($arrayPath[2])? $arrayPath[2] : ''?>">
 	<div id="wrapper">
 		<?php
 		include($folderRoot.'/inc/layout/header.php');

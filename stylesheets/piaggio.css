@@ -1,6 +1,7 @@
 html, body {
 	height: 100%;
 }
+
 body {
 	min-height:100%;
 	color: #ffffff;
@@ -21,6 +22,8 @@ a:hover{
 .uppercase {
 	text-transform: uppercase;
 }
+.clearboth{
+	clear:both;}
 
 nav {
 	background: url(../images/layout/background_30.png);
@@ -96,6 +99,15 @@ section{
 #header .links {
 	float: right;
 	text-align: right;
+}
+
+#header .links .flags{
+	min-width:100px;
+}
+
+#header .links .flags a{
+	padding: 3px 4px;
+	margin:0px 2px
 }
 
 section img {
