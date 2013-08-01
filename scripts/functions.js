@@ -17,14 +17,9 @@ $(function(){
 		if(!$(this).hasClass('active')) {
 			$(this).children('ul').stop().slideUp(); }
 	});
-	
-	$('.fancybox').fancybox({
-		nextSpeed : 500,
-		prevSpeed : 500
-	});
 
 	$('#header h1 a.logo').html('<img src="'+homeRoot+'/images/layout/logo.png" />');
-	
+
 	$(".mycarousel").jcarousel({
 		visible:1,
 		scroll: 1,
@@ -64,6 +59,6 @@ function getImageBG(section) {
 		}
 	}
 	else {
-		return arrayImageBg['default'];	
+		return arrayImageBg['default'];
 	}
 }

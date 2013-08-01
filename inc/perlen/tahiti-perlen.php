@@ -17,13 +17,12 @@
 			'broome-pearls.jpg',
 			'garnelle-anemone.jpg',
 			'hai-kubaI.jpg',
-			
+
 			'hutte-rangiroa.jpg',
 			'japanese-cementery-broome.jpg',
 			'nicolasfisch.jpg',
 			'papaleyiii.jpg',
 			'tintenfisch-hp.jpg',
-
 
 			'rafflesbay-australien-perlenfarm.jpg',
 			'keit-dureau-sam-marlow-kuribayashi.jpg',
@@ -32,12 +31,10 @@
 			'tiburon-rangiroa-ia.jpg',
 			'uw-fisch.jpg',
 			'zuchtung-perle.jpg',
-			
 		);
 
-	$pathPhts = $homeRoot.'/images/photos/perlen';
-	$pathThms = $pathPhts.'/thumbnails';
-	
+	$pathImages = $homeRoot.'/images/photos/perlen';
+	$pathThms = $pathImages.'/thumbnails';	
 ?>
 
 <h3><?=$subSections['perlen']['tahiti-perlen']?></h3>
@@ -48,35 +45,18 @@
 	möglich, in etwa mehr als einem Dutzend polynesischen Atollen, die nicht überfischt sind, werden Larven
 	der Austern gesammelt. Dies stellt den ersten Vorgang der Perlenzucht dar.
 </p>
-<? /*
-<ul class="listItems">
-	<?
-		/*
-		foreach ($thumbnails as $keyTh => $valueth) {
-			?>
-			<li>
-				<a class="fancybox" rel="group" href="<?=$pathPhts?>/<?=$photos[$keyTh]?>" title="Perlen 1">
-					<img src="<?=$pathThms?>/<?=$valueth?>" alt="perlen 1" />
-				</a>
-			</li>
-			<?
-		}
-		* /
-	?>
-<ul>
-*/ ?>
 <div id="" class="mycarousel principal jcarousel-skin-tango">
 	<ul class="">
 		<?
 		foreach ($thumbnails as $keyTh => $valueth) {
 			?>
 			<li>
-				<a class="fancybox" rel="group" href="<?=$pathPhts?>/<?=$photos[$keyTh]?>" title="Perlen 1">
-					<img src="<?=$pathPhts//$pathThms?>/<?=$photos[$keyTh]//$valueth?>" alt="perlen 1" />
+				<a class="fancybox" rel="group" href="<?=$pathImages?>/<?=$photos[$keyTh]?>" title="Perlen 1">
+					<img src="<?=$pathImages?>/<?=$photos[$keyTh]?>" alt="perlen 1" />
 				</a>
 			</li>
 			<?
 		}
-	?>
+		?>
 	</ul>
 </div>

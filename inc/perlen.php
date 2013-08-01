@@ -46,15 +46,14 @@
 </p>
 <ul class="listItems">
 	<?
-		foreach ($thumbnails as $keyTh => $valueth) {
-			?>
-			<li>
-				<a class="fancybox" rel="group" href="<?=$homeRoot?>/<?=$photos[$keyTh]?>" title="Perlen 1">
-					<img src="<?=$pathThms?>/<?=$valueth?>" alt="perlen 1" />
-				</a>
-			</li>
-			<?
-		}
-	?>
-	
+	foreach ($thumbnails as $keyTh => $valueth) {
+		?>
+		<li>
+			<a class="fancybox" rel="group" href="<?=$homeRoot?>/<?=$photos[$keyTh]?>" title="Perlen 1">
+				<img src="<?=$pathThms?>/<?=$valueth?>" alt="perlen 1" />
+			</a>
+		</li>
+		<?
+	}
+	?>	
 <ul>

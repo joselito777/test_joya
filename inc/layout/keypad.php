@@ -6,7 +6,7 @@
 				$activeSection = (isset($arrayPath[0]) && $arrayPath[0] == $keySec)? 'active' : '';
 				$auxLink = $homeRoot.'/'.$keySec;
 				?>
-					<li class="<?=$activeSection?>" > 
+					<li class="<?=$activeSection?>" >
 						<a class="<?=$activeSection?>" href="<?=$auxLink?>" title="<?=$valueSec?>"><?=$valueSec?></a>
 						<?php
 						if(isset($subSections[$keySec])){

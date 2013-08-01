@@ -17,7 +17,7 @@
 	}
 
 	switch ($arrayPath[0]) {
-		case 'internetshop': 
+		case 'internetshop':
 		case 'perlen':
 		case 'diamenten':
 		case 'farbedelsteine':
@@ -29,9 +29,8 @@
 			$actualSection = 'impressum';
 		};
 		break;
-		
 		default: {
-			$actualSection = 'home';	
+			$actualSection = 'home';
 		}
 		break;
 	}

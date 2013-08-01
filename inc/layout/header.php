@@ -13,7 +13,7 @@
 		<h2 class="uppercase">
 			Goldschmiedeatelier Piaggio<br />
 			Erlebnisee In Gold & Platin
-		</h2>				
+		</h2>
 		<h3>
 			<span class="uppercase">
 			Theaterstrasse 23 · D – 37073 Göttingen<br />
