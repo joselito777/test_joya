@@ -19,15 +19,16 @@ $(function(){
 	});
 
 	$('#header h1 a.logo').html('<img src="'+homeRoot+'/images/layout/logo.png" />');
-
+	
 	$(".mycarousel").jcarousel({
+		itemLoadCallback: mycarousel_itemLoadCallback,
 		visible:1,
 		scroll: 1,
-		auto: 3, // seconds
+		auto: 4, // seconds
 		wrap: "both",
 		// This tells jCarousel NOT to autobuild prev/next buttons
-		buttonNextHTML: null,
-		buttonPrevHTML: null
+		//buttonNextHTML: null,
+		//buttonPrevHTML: null
 	});
 })
 
@@ -62,3 +63,36 @@ function getImageBG(section) {
 		return arrayImageBg['default'];
 	}
 }
+
+function mycarousel_itemLoadCallback(carousel, state) {
+	// Check if the requested items already exist
+	if (carousel.has(carousel.first, carousel.last)) {
+		return;
+	}
+
+	jQuery.get(
+		homeRoot+'/images_slider.php',
+		{
+			first: carousel.first,
+			last: carousel.last,
+			subsection: $(".mycarousel").data('subsection')
+		},
+		function(xml) {
+			mycarousel_itemAddCallback(carousel, carousel.first, carousel.last, xml);
+		},
+		'xml'
+	);
+};
+
+function mycarousel_itemAddCallback(carousel, first, last, xml) {
+	// Set the size of the carousel
+	carousel.size(parseInt(jQuery('total', xml).text()));
+
+	jQuery('image', xml).each(function(i) {
+		carousel.add(first + i, mycarousel_getItemHTML(jQuery(this).text()));
+	});
+};
+
+function mycarousel_getItemHTML(url){
+	return '<img src="' + url + '" alt="" />';
+};
