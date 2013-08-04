@@ -153,8 +153,17 @@ section.sectionContent ul.listItems li img{
 	padding: 0;
 }
 
+.jcarousel li img,
+.jcarousel li{
+	margin:0;
+	padding:0;
+	-webkit-border-radius: 0px 0px 10px 10px;
+	border-radius: 0px 0px 10px 10px;
+}
+
 .jcarousel .jcarousel-container {
-	/*margin-right:10px*/ }
+	/*margin-right:10px*/
+	min-height:200px;}
 
 .jcarousel .jcarousel-direction-rtl {
 	direction: rtl; }
@@ -165,29 +174,27 @@ section.sectionContent ul.listItems li img{
 
 .jcarousel .jcarousel-container-vertical {
 	width: 75px;
-	height: 500px;
+	
 	padding: 40px 20px;}
 
 .jcarousel .jcarousel-clip {
 	overflow: hidden;
-	-webkit-border-radius: 0px 0px 10px 10px;
-	border-radius: 0px 0px 10px 10px;}
+	}
 
 .jcarousel .jcarousel-clip-horizontal {
 	width: 100%;
-	height: 500px;}
+	}
 
 .jcarousel .jcarousel-clip-vertical {
 	width:  100%;
-	height: 500px;}
+	}
 
 .jcarousel .jcarousel-item {
 	width: 75px;
-	height: 500px;}
+	}
 
 .jcarousel .jcarousel-item-horizontal {
-	margin-left: 0;
-	/*margin-right: 10px;*/}
+	margin-left: 0;}
 
 .jcarousel .jcarousel-direction-rtl .jcarousel-item-horizontal {
 	margin-left: 10px;
@@ -196,18 +203,14 @@ section.sectionContent ul.listItems li img{
 .jcarousel .jcarousel-item-vertical {
 	margin-bottom: 10px;}
 
-.jcarousel .jcarousel-item-placeholder {
-	/*
-	background: #fff;
-	color: #000;
-	*/}
+.jcarousel .jcarousel-item-placeholder {}
 
 /**
 *  Horizontal Buttons
 */
 .jcarousel .jcarousel-next-horizontal {
 	position: absolute;
-	top: 230px;
+	top: 45%;
 	right: 5px;
 	width: 40px;
 	height: 57px;
@@ -235,7 +238,7 @@ section.sectionContent ul.listItems li img{
 
 .jcarousel .jcarousel-prev-horizontal {
 	position: absolute;
-	top: 230px;
+	top: 45%;
 	left: 5px;
 	width: 40px;
 	height: 57px;
