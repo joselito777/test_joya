@@ -72,6 +72,11 @@
 	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/layout.css">
 	<link rel="stylesheet" href="<?=$homeRoot?>/stylesheets/jquery.fancybox.css">
 
+	<link rel="shortcut icon" href="<?=$homeRoot?>/images/favicon.ico">
+	<link rel="apple-touch-icon" href="<?=$homeRoot?>/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="<?=$homeRoot?>/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="<?=$homeRoot?>/images/apple-touch-icon-114x114.png">
+
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery-1.10.1.min.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.ez-bg-resize.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.mousewheel-3.0.6.pack.js"></script>
