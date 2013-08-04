@@ -22,13 +22,11 @@ $(function(){
 	
 	$(".mycarousel").jcarousel({
 		itemLoadCallback: mycarousel_itemLoadCallback,
+		initCallback: mycarousel_initCallback,
 		visible:1,
 		scroll: 1,
 		auto: 4, // seconds
-		wrap: "both",
-		// This tells jCarousel NOT to autobuild prev/next buttons
-		//buttonNextHTML: null,
-		//buttonPrevHTML: null
+		wrap: "both"
 	});
 })
 
@@ -62,6 +60,15 @@ function getImageBG(section) {
 	else {
 		return arrayImageBg['default'];
 	}
+}
+
+function mycarousel_initCallback(carousel){
+	carousel.clip.bind('mouseenter', function() {
+		carousel.stopAuto();
+	});
+	carousel.clip.bind('mouseleave', function() {
+		carousel.startAuto();
+	}); 
 }
 
 function mycarousel_itemLoadCallback(carousel, state) {
