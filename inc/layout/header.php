@@ -19,8 +19,8 @@
 			<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
 			<a href="#" target="_blank" class="uppercase" title="">Facebook</a> - 
 			<a href="#" target="_blank" class="uppercase" title="">Blog</a> - 
-			<a href="<?=$homeRoot?>/impressum" class="uppercase" title=""><?=$dictionaryHeader['impressum']?></a> -
-			<a href="<?=$homeRoot?>/kontakt" class="uppercase" title=""><?=$dictionaryHeader['kontakt']?></a>
+			<a href="<?=$homeRoot?>/<?=$language?>/impressum" class="uppercase" title=""><?=$dictionaryHeader['impressum']?></a> -
+			<a href="<?=$homeRoot?>/<?=$language?>/kontakt" class="uppercase" title=""><?=$dictionaryHeader['kontakt']?></a>
 		</div>
 		<h2 class="uppercase">
 			<?=$dictionaryHeader['goldschmiedeatelier']?>

@@ -10,16 +10,22 @@ else {
 
 require_once($folderRoot.'/includes/defines_images_sliders.php');
 
-$pathImages = $homeRoot.'/images/photos/perlen/';
-
 // Array indexes are 0-based, jCarousel positions are 1-based.
 $first = max(0, intval($_GET['first']) - 1);
 $last  = max($first + 1, intval($_GET['last']) - 1);
 $length = $last - $first + 1;
+$section = $_GET['section'];
 $subsection = $_GET['subsection'];
 
+$pathImages = $homeRoot.'/images/photos/'.$section.'/';
+
 // ---
-$images = $photos[$subsection];
+if($section != ''){
+	$images = $photos[$section];
+}
+if($subsection != ''){
+	$images = $images[$subsection];
+}
 
 $total    = count($images);
 $selected = array_slice($images, $first, $length);

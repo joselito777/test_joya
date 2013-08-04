@@ -1,17 +1,8 @@
-<?
-	if(isset($arrayPath[1])){
-		$fileToInc = $folderRoot.'/inc/'.$arrayPath[0].'/'.$arrayPath[1].'.php';
-		if (!is_file($fileToInc)) {
-			$fileToInc = $folderRoot.'/inc/sample.php';	
-		}
-	}
-	else{
-		reset($subSections[$arrayPath[0]]);
-		$firstSubSections = key($subSections[$arrayPath[0]]);
-		$fileToInc = $folderRoot.'/inc/'.$arrayPath[0].'/'.$firstSubSections.'.php';
-		if (!is_file($fileToInc)) {
-			$fileToInc = $folderRoot.'/inc/sample.php';	
-		}
-	}
-	include($fileToInc);
-?>
+<h3><?=$dictionarySections['diamenten']?></h3>
+<p>
+	
+</p>
+<div id="" class="mycarousel principal jcarousel" data-section="diamenten" data-subsection="diamenten">
+	<ul class="">
+	</ul>
+</div>

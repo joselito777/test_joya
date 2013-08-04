@@ -6,7 +6,7 @@
 	möglich, in etwa mehr als einem Dutzend polynesischen Atollen, die nicht überfischt sind, werden Larven
 	der Austern gesammelt. Dies stellt den ersten Vorgang der Perlenzucht dar.
 </p>
-<div id="" class="mycarousel principal jcarousel" data-subsection="tahiti-perlen">
+<div id="" class="mycarousel principal jcarousel" data-section="perlen" data-subsection="tahiti-perlen">
 	<ul class="">
 	</ul>
 </div>

@@ -1,0 +1,7 @@
+<h3>Datenschutzerklärung</h3>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum egestas aliquet. Suspendisse molestie, lacus a fermentum aliquet, enim tortor tempor neque, ac faucibus odio dolor eu mauris. Sed at dolor risus. Nam convallis sagittis ante, non laoreet quam molestie vel. Nulla facilisi. Ut id tempus mauris, ut imperdiet justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum posuere luctus ultricies. Vivamus laoreet ornare eleifend. Integer at tellus eget purus varius auctor. Etiam scelerisque posuere nibh in pulvinar. In laoreet augue accumsan, viverra purus id, suscipit orci. Nunc id rhoncus erat. Nam eget lobortis ipsum. Proin et venenatis erat, iaculis venenatis ipsum.
+</p>
+<p>
+	Aenean blandit ullamcorper quam, vehicula porta arcu viverra vitae. Sed volutpat, elit eu malesuada condimentum, urna lectus ultrices tortor, nec tristique ipsum dolor at lectus. Morbi sagittis aliquet aliquam. Aliquam fermentum sapien vitae purus semper, eget sollicitudin leo facilisis. Aenean tellus nibh, ullamcorper ut dignissim a, rutrum a lorem. Maecenas et libero sed odio congue ultrices. Donec vitae aliquet eros, eu consequat lorem. Quisque convallis mauris eget facilisis luctus. In sodales nunc in vehicula tempus. Phasellus feugiat condimentum diam vitae lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+</p>

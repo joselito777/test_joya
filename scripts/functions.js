@@ -42,7 +42,7 @@ function getImageBG(section) {
 			'sudsee-perlen' : 'perlen.jpg',
 			'akoya-perlen' : 'perlen.jpg',
 			'chin-sudwaser-perlen' : 'perlen.jpg',
-			'default' : 'napo-uw-greatb-reef.jpg'	
+			'default' : 'napo-uw-greatb-reef.jpg'
 		}, 
 		'default' : 'fusion-del-oro-624023.jpg'
 	}
@@ -82,6 +82,7 @@ function mycarousel_itemLoadCallback(carousel, state) {
 		{
 			first: carousel.first,
 			last: carousel.last,
+			section: $(".mycarousel").data('section'),
 			subsection: $(".mycarousel").data('subsection')
 		},
 		function(xml) {
