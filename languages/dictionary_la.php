@@ -13,7 +13,7 @@
 	$dictionarySubSections = array(
 		'perlen' => array(
 			'tahiti-perlen' => 'Perlas de Tahiti',
-			'sudsee-perlen' => 'Perlas del Mar del Sur',
+			'sudsee-perlen' => 'Perlas Australianas',
 			'akoya-perlen' => 'Perlas Akoya',
 			'chin-sudwaser-perlen' => 'Chin. perlas de agua dulce',
 		 ), 

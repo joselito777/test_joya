@@ -39,9 +39,6 @@ function getImageBG(section) {
 			'default' : 'fusion-del-oro-624023.jpg'},
 		'perlen' : {
 			'tahiti-perlen' : 'napo-uw-greatb-reef.jpg',
-			'sudsee-perlen' : 'perlen.jpg',
-			'akoya-perlen' : 'perlen.jpg',
-			'chin-sudwaser-perlen' : 'perlen.jpg',
 			'default' : 'napo-uw-greatb-reef.jpg'
 		}, 
 		'default' : 'fusion-del-oro-624023.jpg'
