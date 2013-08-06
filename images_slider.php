@@ -41,7 +41,7 @@ echo '<data>';
 echo '  <total>' . $total . '</total>';
 
 foreach ($selected as $img) {
-    echo '  <image>'.$pathImages.$img.'</image>';
+		echo '  <image>'.$pathImages.$img.'</image>';
 }
 
 echo '</data>';
