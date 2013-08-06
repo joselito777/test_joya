@@ -11,7 +11,7 @@
 				'hai-kubaI.jpg',
 				'garnelle-anemone.jpg',
 				'barrakudas-uw.jpg',
-				'zuchtung-perle.jpg',				
+				'zuchtung-perle.jpg',
 				'tiburon-rangiroa-ia.jpg',
 				'rangiroa-strasse.jpg',
 				'hutte-rangiroa.jpg',
