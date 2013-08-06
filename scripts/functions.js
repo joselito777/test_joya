@@ -28,6 +28,24 @@ $(function(){
 		auto: 4, // seconds
 		wrap: "both"
 	});
+
+	if($('.sectionContent p').size() > 1){
+		$('.sectionContent p').each(function(index){
+			if(index > 0){
+				$(this).css('display','none');
+			}
+		})
+		$('.sectionContent a.more').fadeIn();
+	}
+
+	$('.sectionContent a.more').click(function(){
+		$(this).fadeOut();
+		$('.sectionContent p').each(function(index){
+			if(index > 0){
+				$(this).fadeIn();
+			}
+		})
+	})
 })
 
 function getImageBG(section) {

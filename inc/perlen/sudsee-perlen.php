@@ -5,6 +5,7 @@
 <p>
 	Sed gravida facilisis risus, ut ultricies est fringilla eget. Duis gravida eros eu consequat aliquet. Nam scelerisque, nulla et molestie aliquam, nunc mi semper augue, sed varius magna elit ut enim. Fusce varius convallis neque, ut feugiat risus feugiat et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi porta justo ac leo tincidunt molestie. Sed aliquet nibh in nulla blandit elementum ut et mi. Aenean placerat gravida risus, ac mattis dolor viverra faucibus. Etiam a tempus nisl, ac varius nisi. Aenean et bibendum dui.
 </p>
+<a class="more" >[ more...]</a>
 <div id="" class="mycarousel principal jcarousel" data-section="perlen" data-subsection="sudsee-perlen">
 	<ul class="">
 	</ul>

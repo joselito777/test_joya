@@ -153,6 +153,12 @@ section.sectionContent ul.listItems li img{
 	padding: 0;
 }
 
+section.sectionContent a.more{
+	color:#ffffff;
+	display: none;
+	margin:0 0 10px 0;
+}
+
 .jcarousel li img,
 .jcarousel li{
 	margin:0;
