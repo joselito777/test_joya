@@ -211,6 +211,17 @@ section.sectionContent a.more{
 
 .jcarousel .jcarousel-item-placeholder {}
 
+.jcarousel .sliderItemContent{
+	position:relative;
+}
+.jcarousel .sliderItemContent p{
+	position:absolute;
+	bottom:0px;
+	padding:10px;
+	background:url('../images/layout/background_30.png');
+}
+
+
 /**
 *  Horizontal Buttons
 */
@@ -318,3 +329,4 @@ section.sectionContent a.more{
 .jcarousel .jcarousel-prev-disabled-vertical:active {
 	cursor: default;
 	background-position: 0 -96px;}
+

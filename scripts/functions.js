@@ -111,11 +111,18 @@ function mycarousel_itemAddCallback(carousel, first, last, xml) {
 	// Set the size of the carousel
 	carousel.size(parseInt(jQuery('total', xml).text()));
 
-	jQuery('image', xml).each(function(i) {
-		carousel.add(first + i, mycarousel_getItemHTML(jQuery(this).text()));
+	jQuery('item', xml).each(function(i) {
+		carousel.add(first + i, mycarousel_getImageHTML(jQuery(this).find('image').text(),jQuery(this).find('text').text()));
 	});
 };
 
-function mycarousel_getItemHTML(url){
-	return '<img src="' + url + '" alt="" />';
+function mycarousel_getImageHTML(url, text) {
+	var imagen = $('<img>', { 'src': url, 'alt': '' });
+	var footer = $('<p>').html(text);
+	var itemContent = $('<div>', { 'class': 'sliderItemContent'});
+
+	itemContent.append(footer);
+	itemContent.append(imagen);
+
+	return itemContent;
 };

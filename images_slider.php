@@ -41,7 +41,10 @@ echo '<data>';
 echo '  <total>' . $total . '</total>';
 
 foreach ($selected as $img) {
-		echo '  <image>'.$pathImages.$img.'</image>';
+		echo '	<item>';
+		echo '		<image>'.$pathImages.$img.'</image>';
+		echo '		<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam turpis ac risus condimentum, et tempus lorem tincidunt. </text>';
+		echo '	</item>';
 }
 
 echo '</data>';
