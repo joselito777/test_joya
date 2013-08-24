@@ -74,6 +74,24 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="<?=$homeRoot?>/images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="<?=$homeRoot?>/images/apple-touch-icon-114x114.png">
 
+</head>
+<body class="<?=isset($arrayPath[1])? $arrayPath[1] : ''?> <?=isset($arrayPath[2])? $arrayPath[2] : ''?>">
+	<div id="wrapper">
+		<?php
+		include($folderRoot.'/inc/layout/header.php');
+		?>
+		<div class="container">
+			<?php
+			include($folderRoot.'/inc/layout/keypad.php');
+			?>
+			<section class="columns sectionContent eleven right">
+				<?php
+				include($folderRoot.'/inc/'.$actualSection.'.php');
+				?>
+			</section>
+		</div>
+	</div>
+
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery-1.10.1.min.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.ez-bg-resize.js"></script>
 	<script type="text/javascript" src="<?=$homeRoot?>/scripts/jquery.mousewheel-3.0.6.pack.js"></script>
@@ -89,23 +107,5 @@
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-
-</head>
-<body class="<?=isset($arrayPath[1])? $arrayPath[1] : ''?> <?=isset($arrayPath[2])? $arrayPath[2] : ''?>">
-	<div id="wrapper">
-		<?php
-		include($folderRoot.'/inc/layout/header.php');
-		?>
-		<div class="container">
-			<?php
-			include($folderRoot.'/inc/layout/keypad.php');
-			?>	
-			<section class="columns sectionContent eleven right">
-				<?php
-				include($folderRoot.'/inc/'.$actualSection.'.php');
-				?>
-			</section>
-		</div>
-	</div>
 </body>
 </html>
