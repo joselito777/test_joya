@@ -5,6 +5,11 @@ html, body {
 body {
 	min-height:100%;
 	color: #ffffff;
+	background:#A53B18;
+}
+
+body.perlen {
+	background:#0185AD;
 }
 
 a{
