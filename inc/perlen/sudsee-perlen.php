@@ -1,4 +1,3 @@
-<h3><?=$dictionarySubSections['perlen']['sudsee-perlen']?></h3>
 <?
 include($folderRoot.'/inc/perlen/sudsee-perlen.'.$language.'.php');
 ?>

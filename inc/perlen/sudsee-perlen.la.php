@@ -1,3 +1,4 @@
+<h3><?=$dictionarySubSections['perlen']['sudsee-perlen']?></h3>
 <p>
 	Las perlas de los mares del sur son principalmente cultivadas en Australia, como también así en Filipinas, Indonesia y otras regiones indopacíficas, donde es probable contar diariamente con la anexión de nuevas granjas.
 </p>
