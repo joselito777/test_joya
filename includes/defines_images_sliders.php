@@ -1,11 +1,11 @@
 <?php
 	$photos = array(
 		'perlen' => array(
-			'sin-seccion' => array(
+			'chin-sudwaser-perlen' => array(
+				'robertwan_1024.jpg',
+				'tintenfisch-hp_1024.jpg',
 				'nicolasfisch_1024.jpg',
 				'papaleyiii_1024.jpg',
-				'tintenfisch-hp_1024.jpg',
-				'robertwan_1024.jpg',
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',

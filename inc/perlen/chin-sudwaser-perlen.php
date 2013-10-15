@@ -3,7 +3,7 @@
 include($folderRoot.'/inc/perlen/chin-sudwaser-perlen.'.$language.'.php');
 ?>
 <a class="more" >[ more...]</a>
-<div id="" class="mycarousel principal jcarousel" data-section="perlen" data-subsection="tahiti-perlen">
+<div id="" class="mycarousel principal jcarousel" data-section="perlen" data-subsection="chin-sudwaser-perlen">
 	<ul class="">
 	</ul>
 </div>
