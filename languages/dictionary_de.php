@@ -1,6 +1,6 @@
 <?php
 	$dictionarySections = array(
-		'home' => 'Home', 
+		'home' => 'Piaggio Atelier', 
 		'internetshop' => 'Intershop',
 		'perlen' => 'Perlen', 
 		'diamenten' => 'Diamenten', 
@@ -11,6 +11,11 @@
 	);
 
 	$dictionarySubSections = array(
+		'home' => array(
+			'technical-education' => 'Technische Ausbildung'
+		),
+		'perlen' => array(
+			),
 		'perlen' => array(
 			'tahiti-perlen' => 'Tahiti-Perlen',
 			'sudsee-perlen' => 'Südsee-Perlen',

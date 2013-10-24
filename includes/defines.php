@@ -15,6 +15,9 @@ $sectionsHiddens = array(
 );
 
 $subSections = array(
+	'home' => array(
+		'technical-education'
+	),
 	'perlen' => array(
 		'tahiti-perlen',
 		'sudsee-perlen',
