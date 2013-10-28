@@ -159,9 +159,15 @@ section.sectionContent ul.listItems li img{
 }
 
 section.sectionContent a.more{
-	color:#ffffff;
+	color:#aaaaaa;
 	display: none;
 	margin:0 0 10px 0;
+	padding:3px;
+	cursor:pointer;
+	background: url(../images/layout/background_30.png);
+}
+section.sectionContent a.more:hover{
+	color:#ffffff;
 }
 
 .jcarousel li img,

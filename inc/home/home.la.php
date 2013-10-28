@@ -15,23 +15,4 @@ Desde nuestros comienzos, realizamos muchas presentaciones informativas sobre lo
 <p>
 Para estos acontecimientos hemos  invitado a las personalidades más célebres de lengua alemana sobre el tema: Elisabeth Strack, autora del libro sobre perlas más importante en lengua alemana, el señor Hans Schoeffel, uno de los más importantes comerciantes de perlas de cultivo del mundo; Gaby Tolkowsky quizás el más renombrado tallador de diamantes de todos los tiempos y nieto de Marcel Tolkowsky que en 1919 estableciera las proporciones del Brillante; Jeanette Fiedler (Gerente de la fundación de Instituto del Diamante de Alemania- D.D.I); el legendario Karl Mayer Amler que trabajara con De Beers en Alemania por más de una decena de años; el Profesor Doctor Erhard Brehpol, quizás el joyero más conocido de Alemania; el especialista en perlas de cultivo Gregor Schwarz.   El mismo Nicolás Piaggio participó en varias oportunidades en estos acontecimientos  conjugando su interés por las perlas con conocimientos científicos basados en sus estudios de veterinaria y adquiridos  durante su ocupación intensiva con las  perlas y sustancias orgánicas,  y en su acreditación como perito en diamantes.   Su pasión por la fotografía, el deporte submarino, la fascinación por la belleza de las perlas de cultivo, la geografía y sobre todo, vida y cultura de los pueblos que cultivan perlas contribuyeron a comprender mejor las áreas situadas delante de lo artístico y artesanal.
 </p>
-<h3>Formacion Técnica</h3>
-</p>
-<p>
-Nicolás Piaggio, (1954 - 3 hijos), es perito en diamantes (D.D.I. Fundacion Alemana de Diamantes Pforzheim) y especialista en el tema perlas de cultivo y sustancias orgánicas (Sociedad Gemológica Alemana – Idar Oberstein) desde 1994.
-</p>
-<p>
-Numerosos cursos realizados en Institutos de formacion profesional, viajes como periodista a las más apartadas regiones del mundo, a minas de rubíes, zafiros y  diamantes  como también granjas de perlas prueban un sólido conocimiento técnico.
-</p>
-<p>
-Fue periodista y estudiante de veterinaria en su país natal, Argentina. Autor de notas sobre temas de joyería en alemán y en español, y autor de todas las fotos de sus publicaciones. entre los cuales se pueden mencionar “Perlas” (First),  “Perlen” (Natur und Kosmos) y “Zuchtperlen aus China” (Goldschmiede Zeitung). Ha dictado conferencias en diferentes grupos y sociedades (Lyons Club; Soroptimist Internationa; Rotary entre otros. Propietario y gerente de esta joyería.
-</p>
-<p>
-Ha publicado los siguientes títulos en lengua alemana:
-&bull; Desde el fuego hacia la luz (Aus dem Feuer in das Licht-Göttingen, 1998)<br>
-&bull; Sobre la mina de diamantes en Kununurra- Australia, Göttingen,1998<br>
-&bull; Paseo en la luz (Streifzüge ins Licht- Göttingen, 1999)<br>
-&bull; La filmacion documental homónima realizada en zonas de cultivo de perlas en
-Australia y la Polinesia francesa. (Göttingen, 2000)<br>
-</p>
 <a class="more" >[ más...]</a>

@@ -2,4 +2,3 @@
 <?
 include($folderRoot.'/inc/perlen/akoya-perlen.'.$language.'.php');
 ?>
-

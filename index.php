@@ -34,6 +34,7 @@
 		case 'perlen':
 		case 'diamenten':
 		case 'farbedelsteine':
+		case 'home':
 		case 'impressum':
 		case 'platin-gold':{
 			$actualSection = 'section';
@@ -41,6 +42,7 @@
 		break;
 		default: {
 			$actualSection = 'home';
+			$actualSection = 'section';
 		}
 		break;
 	}
