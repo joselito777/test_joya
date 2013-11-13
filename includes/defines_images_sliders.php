@@ -10,6 +10,7 @@
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
 				'garnelle-anemone_1024.jpg',
+				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
 				'zuchtung-perle_1024.jpg',
 				'tiburon-rangiroa-ia_1024.jpg',
