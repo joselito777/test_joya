@@ -1,10 +1,10 @@
 <?php
 		$dictionarySections = array(
-		'home' => 'Piaggio Atelier', 
-		'internetshop' => 'Intershop',
-		'perlen' => 'Perles', 
-		'diamenten' => 'Diamonds', 
-		'farbedelsteine' => 'Pierres de couleur', 
+		'home' => 'Piaggio Atelier',
+		'internetshop' => 'Internetshop',
+		'perlen' => 'Perles',
+		'diamenten' => 'Diamonds',
+		'farbedelsteine' => 'Pierres de couleur',
 		'platin-gold' => 'Platin + Gold',
 		'kontakt' => 'Contactez',
 		'impressum' => 'Mentions légales'
