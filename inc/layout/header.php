@@ -14,9 +14,7 @@
 				<a href="<?=$homeRoot?>/fr<?=$auxUrlLocation?>" title="Française"><img src="<?=$homeRoot?>/images/layout/fr.png" ></a>
 				<a href="<?=$homeRoot?>/la<?=$auxUrlLocation?>" title="Español"><img src="<?=$homeRoot?>/images/layout/ar.png" ></a>
 			</div>
-			<a href="http://www.goldschmiede-piaggio-shop.com" target="_blank" title="">www.goldschmiede-piaggio-shop.com</a> · 
-			<a href="http://www.goldschmiede-shop.com" target="_blank" title="">www.goldschmiede-shop.com</a> · 
-			<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">www.nicolas-piaggio-fotograf.de</a><br />
+			<a href="http://www.nicolas-piaggio-fotograf.de" target="_blank" title="">nicolas-piaggio-fotograf.de</a><br />
 			<a href="#" target="_blank" class="uppercase" title="">Facebook</a> - 
 			<a href="#" target="_blank" class="uppercase" title="">Blog</a> -
 			<?
