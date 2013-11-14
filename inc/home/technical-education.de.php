@@ -12,4 +12,4 @@
 	<li>Streifzüge ins Licht, Göttingen 1999</li>
 	<li>Streifzüge ins Licht (gleichnamiger Dokumentarfilm über Zuchtperlen in Australien und Polynesien), Göttingen 2000</li>
 </p>
-<a class="more" >[ más...]</a>
+<a class="more" >[ mehr...]</a>
