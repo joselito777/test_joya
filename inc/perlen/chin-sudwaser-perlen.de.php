@@ -14,3 +14,4 @@
 <p>
 	Es gibt allerdings auch eine Zucht von Perlen mit hohen Qualitätsstandards. Nur mit diesen Erzeugern arbeiten wir! Deren über einen sehr langen Zeitraum erworbenes Fachwissen hat zu bemerkenswerten Zuchtperlen geführt, deren Preis nicht selten denjenigen der Perlen aus Tahiti und sogar aus Australien übersteigt.
 </p>
+<a class="more">[ mehr...]</a>

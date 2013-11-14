@@ -1,3 +1,4 @@
+<h3><?=$dictionarySubSections['perlen']['chin-sudwaser-perlen']?></h3>
 <p>
 	Sin duda, no existen otras perlas que ofrezcan una natural gama de colores más extensos ni perlas cultivadas más ricas en perlamadre que las perlas de agua dulce de la China. Su cultivo se realiza principalmente en el Lago “Tai Hu” que es el tercer lago más grande de China, (2,5 veces mayor que el lago Lago de Konstanza, el mayor lago de Alemania) pero que en su parte más profunda no alcanza a 1,5 mts de profundidad lo que hace de este un lago prácticamente innavegable. Esta curiosidad se refleja en la falta de contaminación que protege el cultivo de la perla.
 </p>
@@ -17,3 +18,4 @@ No obstante, existe  también el cultivo de una calidad mayor a la norma y es es
 <p>
 Es	ta perla se consigue, tras varios anos de trabajo, y de técnicas conquistadas a través de muchos anos de experiencia y no es raro que –debido a su excelencia- los precios de estas, estén sobre los precios de las perlas de cultivo de Tahiti y hasta las de Australia.
 </p>
+<a class="more">[ más...]</a>

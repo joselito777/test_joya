@@ -11,4 +11,4 @@
 <p>
 	Lesen Sie bitte zur weiteren Information unseren “Blog Streifzüge ins Licht“.
 </p>
-
+<a class="more" >[ mehr...]</a>

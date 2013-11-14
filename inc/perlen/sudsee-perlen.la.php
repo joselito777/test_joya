@@ -14,3 +14,4 @@
 <p>
 	Para más información leer el Blog “Streifzüge ins Licht”
 </p>
+<a class="more" >[ más...]</a>

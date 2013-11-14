@@ -8,6 +8,7 @@ La indagación permanente sobre las nuevas y viejas técnicas de la orfebrería,
 <p>
 Esos metales, por tener puntos de fundición más altos que el oro reducido (750-000 / 585-000/ 333-000) y la plata representan un desafío para el orfebre; requieren técnicas y herramientas de trabajo especiales. Trabajarlos constituye una exigencia personal que tiene como fin último satisfacer los deseos y las expectativas de nuestros clientes.
 </p>
+
 <h3>Cuanto más entienda Usted de joyas, mejor será su opinión sobre nosotros</h3>
 <p>
 Desde nuestros comienzos, realizamos muchas presentaciones informativas sobre los materiales con los que trabajamos: las perlas de cultivo de diferentes latitudes y los diamantes .

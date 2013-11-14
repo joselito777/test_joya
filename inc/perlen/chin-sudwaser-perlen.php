@@ -1,8 +1,6 @@
-<h3><?=$dictionarySubSections['perlen']['chin-sudwaser-perlen']?></h3>
-<?
+<?php
 include($folderRoot.'/inc/perlen/chin-sudwaser-perlen.'.$language.'.php');
 ?>
-<a class="more" >[ more...]</a>
 <div id="" class="mycarousel principal jcarousel" data-section="perlen" data-subsection="chin-sudwaser-perlen">
 	<ul class="">
 	</ul>
