@@ -1,6 +1,6 @@
 <?php
 		$dictionarySections = array(
-		'home' => 'Piaggio Atelier',
+		'home' => 'Goldschmiede-Atelier Piaggio',
 		'internetshop' => 'Internetshop',
 		'perlen' => 'Perles',
 		'diamenten' => 'Diamonds',

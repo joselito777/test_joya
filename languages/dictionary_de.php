@@ -1,9 +1,9 @@
 <?php
 	$dictionarySections = array(
-		'home' => 'Piaggio Atelier',
+		'home' => 'Goldschmiede-Atelier Piaggio',
 		'internetshop' => 'Internetshop',
 		'perlen' => 'Perlen',
-		'diamenten' => 'Diamenten',
+		'diamenten' => 'Diamanten',
 		'farbedelsteine' => 'Farbedelsteine',
 		'platin-gold' => 'Platin + Gold',
 		'kontakt' => 'Kontakt',
