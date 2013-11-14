@@ -5,9 +5,14 @@
 			if(!isset($sectionsHiddens[$keySec])){
 				$activeSection = (isset($arrayPath[1]) && $arrayPath[1] == $keySec)? 'active' : '';
 				$auxLinksec = $homeRoot.'/'.$language.'/'.$keySec;
+				$auxTarget = '';
+				if($keySec == 'internetshop') {
+					$auxTarget = 'target="_blank"';
+					$auxLinksec = 'http://www.goldschmiede-piaggio.de/';
+				}
 				?>
 					<li class="<?=$activeSection?>" >
-						<a class="<?=$activeSection?>" href="<?=$auxLinksec?>" title="<?=$dictionarySections[$keySec]?>">
+						<a class="<?=$activeSection?>" href="<?=$auxLinksec?>" title="<?=$dictionarySections[$keySec]?>" <?=$auxTarget?>>
 							<?=$dictionarySections[$keySec]?>
 						</a>
 						<?php
