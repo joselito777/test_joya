@@ -98,7 +98,8 @@ function mycarousel_itemLoadCallback(carousel, state) {
 			first: carousel.first,
 			last: carousel.last,
 			section: $(".mycarousel").data('section'),
-			subsection: $(".mycarousel").data('subsection')
+			subsection: $(".mycarousel").data('subsection'),
+			lang: $(".mycarousel").data('lang')
 		},
 		function(xml) {
 			mycarousel_itemAddCallback(carousel, carousel.first, carousel.last, xml);

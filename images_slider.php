@@ -16,19 +16,25 @@ $last  = max($first + 1, intval($_GET['last']) - 1);
 $length = $last - $first + 1;
 $section = $_GET['section'];
 $subsection = $_GET['subsection'];
+$lang = $_GET['lang'];
+
+require_once($folderRoot.'/languages/images_sliders.'.$lang.'.php');
 
 $pathImages = $homeRoot.'/images/photos/'.$section.'/';
 
 // ---
 if($section != ''){
 	$images = $photos[$section];
+	$imagesText = $photos_footer[$section];
 }
 if($subsection != ''){
 	$images = $images[$subsection];
+	$imagesText = $imagesText[$subsection];
 }
 
-$total    = count($images);
+$total = count($images);
 $selected = array_slice($images, $first, $length);
+$selectedText = array_slice($imagesText, $first, $length);
 
 // ---
 
@@ -40,10 +46,10 @@ echo '<data>';
 // can set the size of the carousel.
 echo '  <total>' . $total . '</total>';
 
-foreach ($selected as $img) {
+foreach ($selected as $i => $img) {
 		echo '	<item>';
 		echo '		<image>'.$pathImages.$img.'</image>';
-		echo '		<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam turpis ac risus condimentum, et tempus lorem tincidunt. </text>';
+		echo '		<text>'.$selectedText[$i].'</text>';
 		echo '	</item>';
 }
 
