@@ -5,7 +5,7 @@
 				'Was Zuchtperlen anbetrifft, ist Robert Wan wohl die wichtigste Persönlichkeit auf Tahiti und möglicherweise der reichste Mann des Archipels. Die Züchtung von Perlen ist die dritte Einnahme-Quelle in Französisch-Polynesien. Robert Wan unterhält Perlen-Farmen in verschiedenen Atollen. Hier ein Interview in Papeete mit Nicolas Piaggio.',
 				'Einer der Feinde der Perlen-Muscheln: Tintenfische und Seesterne ernähren sich von Mollusken.',
 				'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
-				'Die „Paspaley III“ ist zusammen mit der „Vivien“, die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
+				'Die “Paspaley III" ist zusammen mit der “Vivien", die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
