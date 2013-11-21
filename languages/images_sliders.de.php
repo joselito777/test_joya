@@ -6,6 +6,8 @@
 				'Einer der Feinde der Perlen-Muscheln: Tintenfische und Seesterne ernähren sich von Mollusken.',
 				'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
 				'Die “Paspaley III" ist zusammen mit der “Vivien", die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
+				'perlen-ausstellung1areduz-hp.png',
+				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',

@@ -6,6 +6,8 @@
 				'tintenfisch-hp_1024.jpg',
 				'nicolasfisch_1024.jpg',
 				'papaleyiii_1024.jpg',
+				'perlen-ausstellung1areduz-hp.png',
+				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
@@ -16,7 +18,6 @@
 				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
 				'hutte-rangiroa_1024.jpg',
-				
 			),
 			'sudsee-perlen' => array(
 				'japanese-cementery-broome_1024.jpg',

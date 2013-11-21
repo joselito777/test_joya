@@ -6,6 +6,8 @@
 				'Voici un des ennemis des huîtres perlières : des seiches et des étoiles de mer s’alimentent de mollusques.',
 				'Nicolas Piaggio plonge dans les eaux des parcs à huîtres de différents continents. C’est là que le spécialiste des perles de Göttingen trouve des informations de première main. Voici il est en train de photographier un poisson scorpion.',
 				'Le “Paspaley III” est avec le “Vivien” -qui, lui aussi, appartient à l’entreprise Paspaley- le bateau le plus grand de l’industrie de perle au monde. Dans ses installations sont réalisés d’une part l’implantation et la récolte des perles et d’autre part le nettoyage régulier ainsi que les travaux postopératoires et le contrôle par des rayons X.',
+				'perlen-ausstellung1areduz-hp.png',
+				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',

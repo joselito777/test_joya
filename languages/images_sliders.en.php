@@ -6,6 +6,8 @@
 				'Some enemies of the pearl oyster: octopuses and starfishes eat molluscs.',
 				'Nicolás Piaggio dives in pearl farms in different continents. It is here where the specialist from Göttingen receives first hand information. In this shot, he captured a scorpion fish in crystal clear waters.',
 				'The “Paspaley III” is, together with the “Vivien”, the largest ship in the pearl industry. In its facilities, tasks such as nucleus implantation, harvesting, cleaning and quality control with X-rays are carried out.',
+				'perlen-ausstellung1areduz-hp.png',
+				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
