@@ -2,10 +2,6 @@
 	$photos = array(
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
-				'robertwan_1024.jpg',
-				'tintenfisch-hp_1024.jpg',
-				'nicolasfisch_1024.jpg',
-				'papaleyiii_1024.jpg',
 				'perlen-ausstellung1areduz-hp.png',
 				'perlenkette.png'
 			),
@@ -18,6 +14,7 @@
 				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
 				'hutte-rangiroa_1024.jpg',
+				'robertwan_1024.jpg'
 			),
 			'sudsee-perlen' => array(
 				'japanese-cementery-broome_1024.jpg',
@@ -26,6 +23,9 @@
 				'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
 				'broome-pearls_1024.jpg',
 				'broome-harbour_1024.jpg',
+				'tintenfisch-hp_1024.jpg',
+				'nicolasfisch_1024.jpg',
+				'papaleyiii_1024.jpg'
 			),
 		),
 		'diamenten' => array(

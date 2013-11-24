@@ -2,9 +2,6 @@
 	$photos_footer = array(
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
-				'Robert Wan es la personalidad más importante del mundo de la perla en la Polinesia Francesa, y probablemente el hombre más rico del archipiélago. El cultivo de la perla en esta zona constituye el tercer ingreso de dinero más importante del país. Robert Wan cultiva perlas en diferentes atolones. Aquí en entrevista con Nicolas Piaggio en sus oficinas en Papete.',
-				'Uno de los enemigos de las ostras perlíferas: pulpos y estrellas marinas se alimentan de moluscos.',
-				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
 				'En las instalaciones del Paspaley III, que junto al “Vivien” es el barco más grande en la industria de la perla, se realizan tareas de implantación de núcleos y cosecha de perlas, como así también trabajos postoperatorios como controles con rayos "X" y limpieza de ostras.',
 				'perlen-ausstellung1areduz-hp.png',
 				'perlenkette.png'
@@ -18,7 +15,7 @@
 				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
 				'hutte-rangiroa_1024.jpg',
-				
+				'Robert Wan es la personalidad más importante del mundo de la perla en la Polinesia Francesa, y probablemente el hombre más rico del archipiélago. El cultivo de la perla en esta zona constituye el tercer ingreso de dinero más importante del país. Robert Wan cultiva perlas en diferentes atolones. Aquí en entrevista con Nicolas Piaggio en sus oficinas en Papete.',
 			),
 			'sudsee-perlen' => array(
 				'japanese-cementery-broome_1024.jpg',
@@ -27,6 +24,9 @@
 				'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
 				'broome-pearls_1024.jpg',
 				'broome-harbour_1024.jpg',
+				'Uno de los enemigos de las ostras perlíferas: pulpos y estrellas marinas se alimentan de moluscos.',
+				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
+				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
 			),
 		),
 		'diamenten' => array(
