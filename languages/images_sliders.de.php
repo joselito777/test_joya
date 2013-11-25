@@ -5,7 +5,7 @@
 				'Einen sehr langen Zeitraum erworbenes Fachwissen hat zu bemerkenswerten Zuchtperlen geführt.',
 				'Die Zucht solcher Perlen in "Cornflakes" Form, geschieht ohne den Zusatz von Kernen wie es bei der runden Perle üblich ist. Um Perlen mit dieser Form zu erzeugen, wird nur ein Stück Mantelgewebe aus einer Spendermuschel verwendet. Unsere Verschlüsse, per Hand angefertigt in 750/000 Gold, begleiten harmonisch die Form der Perle.',
 				'Auf einer Perlenfarm nahe der Stadt Wuxi, am Ufer des Tai Sees in China, kontrolliert ein Arbeiter das Wachstum und die Gesundheit von Perlenmuscheln.',
-				'Die chinesischen Süsswasser-Zuchtperlen aus China, haben die größte Farbpalette von allen Perlen der Welt. Dennoch ist der Lüster, der beeinflusst wird durch die Temperatur des Wassers, nicht immer sehr gut.',
+				'Die Süsswasser-Zuchtperlen aus China, haben die größte Farbpalette von allen Perlen der Welt. Dennoch ist der Lüster, der beeinflusst wird durch die Temperatur des Wassers, nicht immer sehr gut.',
 				'Die Züchtung von Perlen im Tai Hu See, wie auch im Jangtsekiang Fluß, ist kontrollierbar. Die Muscheln werden in geregelten Abständen zugunsten der Perlenproduktion untersucht.',
 				
 			),

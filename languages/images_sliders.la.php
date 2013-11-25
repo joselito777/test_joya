@@ -5,7 +5,7 @@
 				'Esta perla se consigue, tras varios anos de trabajo, y de técnicas conquistadas a través de muchos anos de experiencia.',
 				'El cultivo de este tipo de Perlas con forma de "corn flakes" deriva de la inexistencia de núcleos. Para cultivar perlas de esta forma, se utilizan solamente trozos de epitelio de una ostra donante. Nuestros cierres construídos a mano en oro de 750/000, respetan la forma de la perla acompañandola armónicamente.',
 				'En una granja de perlas cercanas a la ciudad de Wuxi, a orillas del Tai Hu (lago Tai) en China, un operario controla el crecimiento y la limpieza de las ostras perliferas.',
-				'Las perlas de agua dulce de la china, tiene la más variada gama de colores que existe. No obstante, no poseen siepre un brillo profundo. Esto se debe a la influencia que la temperatura del agua tiene sobre el nacar.',
+				'Las perlas de agua dulce de la china, tiene la más variada gama de colores que existe. No obstante, no poseen siempre un brillo profundo. Esto se debe a la influencia que la temperatura del agua tiene sobre el nacar.',
 				'La produccion de perlas en el Tai Hu como así también en los afluentes del río jangtsekiang, es controlable. Las ostras se someten a un periódico control para aumentar la produccion perlífera.',
 				
 			),
