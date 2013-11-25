@@ -2,12 +2,15 @@
 	$photos_footer = array(
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
-				'Esta perla se consigue, tras varios anos de trabajo, y de técnicas conquistadas a través de muchos anos de experiencia.',
+				'Esta perla se consigue, tras varios anos de trabajo, y de técnicas conquistadas a través de muchos anos de experiencia y no es raro que -debido a su excelencia- los precios de estas, estén sobre los precios de las perlas de cultivo de Tahiti y hasta las de Australia.',
 				'El cultivo de este tipo de Perlas con forma de "corn flakes" deriva de la inexistencia de núcleos. Para cultivar perlas de esta forma, se utilizan solamente trozos de epitelio de una ostra donante. Nuestros cierres construídos a mano en oro de 750/000, respetan la forma de la perla acompañandola armónicamente.',
 				'En una granja de perlas cercanas a la ciudad de Wuxi, a orillas del Tai Hu (lago Tai) en China, un operario controla el crecimiento y la limpieza de las ostras perliferas.',
 				'Las perlas de agua dulce de la china, tiene la más variada gama de colores que existe. No obstante, no poseen siempre un brillo profundo. Esto se debe a la influencia que la temperatura del agua tiene sobre el nacar.',
 				'La produccion de perlas en el Tai Hu como así también en los afluentes del río jangtsekiang, es controlable. Las ostras se someten a un periódico control para aumentar la produccion perlífera.',
-				
+				'Jóvenes chinas seleccionan la cosecha de perlas dividiéndolas por su tamano, forma, color, lustre y calidad de superficie.',
+				'Desde el Grand Hotel, en la ciudad de Wuxi, una vista del puente Tin Hial sobre el "Kaiser Canal".',
+				'Un ejecutivo chino, nos muestra las hileras de ostras a escasa profundidad en una granja de perlas.',
+				'Cruce de calles con gente en H.K.:Hong Kong es la meca del comercio asiatico.'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
