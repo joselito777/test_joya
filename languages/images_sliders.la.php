@@ -2,9 +2,12 @@
 	$photos_footer = array(
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
-				'En las instalaciones del Paspaley III, que junto al “Vivien” es el barco más grande en la industria de la perla, se realizan tareas de implantación de núcleos y cosecha de perlas, como así también trabajos postoperatorios como controles con rayos "X" y limpieza de ostras.',
-				'perlen-ausstellung1areduz-hp.png',
-				'perlenkette.png'
+				'Esta perla se consigue, tras varios anos de trabajo, y de técnicas conquistadas a través de muchos anos de experiencia.',
+				'El cultivo de este tipo de Perlas con forma de "corn flakes" deriva de la inexistencia de núcleos. Para cultivar perlas de esta forma, se utilizan solamente trozos de epitelio de una ostra donante. Nuestros cierres construídos a mano en oro de 750/000, respetan la forma de la perla acompañandola armónicamente.',
+				'En una granja de perlas cercanas a la ciudad de Wuxi, a orillas del Tai Hu (lago Tai) en China, un operario controla el crecimiento y la limpieza de las ostras perliferas.',
+				'Las perlas de agua dulce de la china, tiene la más variada gama de colores que existe. No obstante, no poseen siepre un brillo profundo. Esto se debe a la influencia que la temperatura del agua tiene sobre el nacar.',
+				'La produccion de perlas en el Tai Hu como así también en los afluentes del río jangtsekiang, es controlable. Las ostras se someten a un periódico control para aumentar la produccion perlífera.',
+				
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
@@ -26,7 +29,7 @@
 				'broome-harbour_1024.jpg',
 				'Uno de los enemigos de las ostras perlíferas: pulpos y estrellas marinas se alimentan de moluscos.',
 				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
-				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
+				'En las instalaciones del Paspaley III, que junto al “Vivien” es el barco más grande en la industria de la perla, se realizan tareas de implantación de núcleos y cosecha de perlas, como así también trabajos postoperatorios como controles con rayos "X" y limpieza de ostras.',
 			),
 		),
 		'diamenten' => array(

@@ -3,7 +3,15 @@
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
 				'perlen-ausstellung1areduz-hp.png',
-				'perlenkette.png'
+				'perlenkette.png',
+				'farm-china_1024.jpg',
+				'ostra-perlifera-en-china_1024.jpg',
+				'ostras-en-cesto_1024.jpg',
+				'operadoras-clasifican-perlas_1024.jpg',
+				'tin-hial-bridge.png',
+				'granjacercanaa-wuxi-china.jpg',
+				'hongkong-mekadelnegocioasiatico.png',
+				'piaggio-y-hagop-chevarian-en-hk_1024.jpg',
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
