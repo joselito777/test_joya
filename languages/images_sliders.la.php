@@ -10,7 +10,8 @@
 				'Jóvenes chinas seleccionan la cosecha de perlas dividiéndolas por su tamano, forma, color, lustre y calidad de superficie.',
 				'Desde el Grand Hotel, en la ciudad de Wuxi, una vista del puente Tin Hial sobre el "Kaiser Canal".',
 				'Un ejecutivo chino, nos muestra las hileras de ostras a escasa profundidad en una granja de perlas.',
-				'Cruce de calles con gente en H.K.:Hong Kong es la meca del comercio asiatico.'
+				'Cruce de calles con gente en H.K.:Hong Kong es la meca del comercio asiatico.',
+				'En Hong Kong, Nicolas Piaggio  conversa con Hagop Tschabarian Productor de perlas en China.'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
