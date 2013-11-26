@@ -7,7 +7,11 @@
 				'Auf einer Perlenfarm nahe der Stadt Wuxi, am Ufer des Tai Sees in China, kontrolliert ein Arbeiter das Wachstum und die Gesundheit von Perlenmuscheln.',
 				'Die Süsswasser-Zuchtperlen aus China, haben die größte Farbpalette von allen Perlen der Welt. Dennoch ist der Lüster, der beeinflusst wird durch die Temperatur des Wassers, nicht immer sehr gut.',
 				'Die Züchtung von Perlen im Tai Hu See, wie auch im Jangtsekiang Fluß, ist kontrollierbar. Die Muscheln werden in geregelten Abständen zugunsten der Perlenproduktion untersucht.',
-				
+				'Junge Chinesinnen selektieren Perlen nach Größe, Form, Farbe, Lüster und Oberflächenbeschaffenhei.',
+				'Ein Blick aus dem Grand Hotel in der Stadt Wuxi auf die Tin Hial Brücke über den "Kaiser Kanal".',
+				'Hong Kong ist das Mekka des asiatischen Handels.',
+				'Ein Geschäftsmann zeigt auf einer Perlenfarm die "Long Lines", an denen die Muscheln aufbewahrt werden.',
+				'In Hong Kong; Nicolas Piaggio im Gespräch mit Hagop Tchabarian, Perlenzüchter in China.'
 			),
 			'tahiti-perlen' => array(
 				'hai-kubaI_1024.jpg',
