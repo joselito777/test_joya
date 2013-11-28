@@ -14,7 +14,7 @@
 				'En Hong Kong, Nicolas Piaggio  conversa con Hagop Tschabarian Productor de perlas en China.'
 			),
 			'tahiti-perlen' => array(
-				'hai-kubaI_1024.jpg',
+
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
@@ -25,6 +25,7 @@
 				'Robert Wan es la personalidad más importante del mundo de la perla en la Polinesia Francesa, y probablemente el hombre más rico del archipiélago. El cultivo de la perla en esta zona constituye el tercer ingreso de dinero más importante del país. Robert Wan cultiva perlas en diferentes atolones. Aquí en entrevista con Nicolas Piaggio en sus oficinas en Papete.',
 			),
 			'sudsee-perlen' => array(
+				'Un tiburón recorre los fondos marinos. Tiburones, cocodrilos de agua saladas, medusas, serpientes marinas y las fuertes corrientes son peligros a los que se someten los trabajadores  en granjas de perlas.',
 				'japanese-cementery-broome_1024.jpg',
 				'uw-fisch_1024.jpg',
 				'rafflesbay-australien-perlenfarm_1024.jpg',

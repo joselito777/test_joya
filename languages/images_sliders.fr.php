@@ -6,7 +6,7 @@
 				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
-				'hai-kubaI_1024.jpg',
+
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
@@ -18,6 +18,7 @@
 				
 			),
 			'sudsee-perlen' => array(
+				'hai kubaI',
 				'japanese-cementery-broome_1024.jpg',
 				'uw-fisch_1024.jpg',
 				'rafflesbay-australien-perlenfarm_1024.jpg',

@@ -14,7 +14,7 @@
 				'piaggio-y-hagop-chevarian-en-hk_1024.jpg',
 			),
 			'tahiti-perlen' => array(
-				'hai-kubaI_1024.jpg',
+
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
@@ -25,6 +25,7 @@
 				'robertwan_1024.jpg'
 			),
 			'sudsee-perlen' => array(
+				'hai-kubaI_1024.jpg',
 				'japanese-cementery-broome_1024.jpg',
 				'uw-fisch_1024.jpg',
 				'rafflesbay-australien-perlenfarm_1024.jpg',

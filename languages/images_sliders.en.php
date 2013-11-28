@@ -6,7 +6,6 @@
 				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
-				'hai-kubaI_1024.jpg',
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
@@ -17,6 +16,7 @@
 				'Robert Wan is the most important personality in the world of pearls in the French Polynesia, and probably the wealthiest man in the Archipelago. Pearl farming is the third most important source of income in the country. Robert Wan cultivates pearls in different atolls. Here, in an interveiw with Nicolás Piaggio in his office at Pepete.',
 			),
 			'sudsee-perlen' => array(
+				'A shark swims in deep ocean waters. Sharks, salt water crocodiles, jellyfish and strong currents are some of the dangers pearl farm workers face on a daily basis.',
 				'japanese-cementery-broome_1024.jpg',
 				'uw-fisch_1024.jpg',
 				'rafflesbay-australien-perlenfarm_1024.jpg',
