@@ -9,7 +9,7 @@
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'A young barracuda shoal wanders about in Pacific waters.',
-				'zuchtung-perle_1024.jpg',
+				'A worker extracts epithelium from a donor oyster. It will be cut in more than twelve parts which will be placed next to a little mother-pearl ball inside an oyster. Two years later, and after intensive care, the pearls will be harvested.',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'Ranguiroa is a volcanic ring in the Pacific Ocean. One of its shores is habitable and is a few kilometers long. A paved street links some diving bases, a couple of hotels, a pearl culturing school, a restaurant and the scarce population.',
 				'Rangiroa, French Polynesia.  A typical hut built with regional materials on the atoll shore belongs to a small hotel. From here it is not uncommon to see small sharks swimming in its internal waters.',

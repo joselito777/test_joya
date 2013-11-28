@@ -18,7 +18,7 @@
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
 				'Un cardumen de barracudas jóvenes pasea por aguas del Pacífico.',
-				'zuchtung-perle_1024.jpg',
+				'Un operador extrae epitelio de una ostra donante . Este va a ser segmentado en mas de una docena de piezas. Cada una de estas , va a ser colocada junto a  una bolita de perlamadre en una ostra. Dos anos más tarde y luego de intensivos cuidados, se procede a la cosecha de la perla.',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'Ranguiroa es un anillo de orígen volcánico en el Pacífico. Una de sus orillas es habitable y tiene unos pocos kilómetros de largo. Una calle asfaltada sirve de nexo entre unas pocas bases de buceo, un par de hoteles, una escuela para el cultivo de perlas, un restaurante y una escasa urbanizacion.',
 				'En Ranguiroa (Polinesia francesa) una típica Choza construída con materiales del lugar a orillas  del atolón,  pertenece a un  sencillo  y pequeno complejo hotelero. Desde ella, no es raro ver pequenos tiburones pasear por sus aguas internas.',
