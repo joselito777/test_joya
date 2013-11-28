@@ -21,7 +21,7 @@
 				'zuchtung-perle_1024.jpg',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
-				'hutte-rangiroa_1024.jpg',
+				'In Rangiroa (französisch Polynesien) steht eine Hütte am Ufer des Atolls, sie gehört zu den Einrichtungen eines einfachen Hotelkomplexes. Von dort aus sind nicht selten kleine Haie zu sehen, die die seichten Gewässer des Atolls durchstreifen.',
 				'Was Zuchtperlen anbetrifft, ist Robert Wan wohl die wichtigste Persönlichkeit auf Tahiti und möglicherweise der reichste Mann des Archipels. Die Züchtung von Perlen ist die dritte Einnahme-Quelle in Französisch-Polynesien. Robert Wan unterhält Perlen-Farmen in verschiedenen Atollen. Hier ein Interview in Papeete mit Nicolas Piaggio.',
 				
 			),

@@ -21,7 +21,7 @@
 				'zuchtung-perle_1024.jpg',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
-				'hutte-rangiroa_1024.jpg',
+				'En Ranguiroa (Polinesia francesa) una típica Choza construída con materiales del lugar a orillas  del atolón,  pertenece a un  sencillo  y pequeno complejo hotelero. Desde ella, no es raro ver pequenos tiburones pasear por sus aguas internas.',
 				'Robert Wan es la personalidad más importante del mundo de la perla en la Polinesia Francesa, y probablemente el hombre más rico del archipiélago. El cultivo de la perla en esta zona constituye el tercer ingreso de dinero más importante del país. Robert Wan cultiva perlas en diferentes atolones. Aquí en entrevista con Nicolas Piaggio en sus oficinas en Papete.',
 			),
 			'sudsee-perlen' => array(
