@@ -17,7 +17,7 @@
 
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
-				'barrakudas-uw_1024.jpg',
+				'Ein Schwarm junger Barracudas streift durch die Gewässer des Südpazifiks.',
 				'zuchtung-perle_1024.jpg',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'Rangiroa ist es ein abgetragener Vulkan im Pazifik. Auf wenigen Kilometern ist sein Ufer bewohnt. Eine asphaltierte Straße ist die Verbindung zwischen ein paar Tauchbasen, Hotels, einer Schule für die Züchtung von Perlen und einem Restaurant  in einer kleinen Siedlung.',

@@ -8,7 +8,7 @@
 			'tahiti-perlen' => array(
 				'garnelle-anemone_1024.jpg',
 				'hai-mit-korben_1024.jpg',
-				'barrakudas-uw_1024.jpg',
+				'A young barracuda shoal wanders about in Pacific waters.',
 				'zuchtung-perle_1024.jpg',
 				'tiburon-rangiroa-ia_1024.jpg',
 				'Ranguiroa is a volcanic ring in the Pacific Ocean. One of its shores is habitable and is a few kilometers long. A paved street links some diving bases, a couple of hotels, a pearl culturing school, a restaurant and the scarce population.',
