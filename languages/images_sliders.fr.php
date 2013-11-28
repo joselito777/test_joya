@@ -11,7 +11,7 @@
 				'hai-mit-korben_1024.jpg',
 				'barrakudas-uw_1024.jpg',
 				'zuchtung-perle_1024.jpg',
-				'tiburon-rangiroa-ia_1024.jpg',
+				'Le trabaill dons le farm perliere es un trabaill dangerous.',
 				'rangiroa-strasse_1024.jpg',
 				'hutte-rangiroa_1024.jpg',
 				'Roberto Wan est vraisemblablement la personnalité plus importante du monde de la perle en Polynésie française et probablement l’homme le plus riche de l’archipel. L’élevage des perles constitue la troisième source de revenus de la Polynésie française. Robert Wan tient plusieurs parcs à huîtres des sur des différents atolls. Voici une interview avec Nicolas Piaggio à Papeete.',
