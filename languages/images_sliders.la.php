@@ -15,7 +15,7 @@
 			),
 			'tahiti-perlen' => array(
 
-				'garnelle-anemone_1024.jpg',
+				'Los atolones proporcionan alimento  y refugio para muchas especies. Aquí un crustáceo en un campo de anémonas.',
 				'hai-mit-korben_1024.jpg',
 				'Un cardumen de barracudas jóvenes pasea por aguas del Pacífico.',
 				'Un operador extrae epitelio de una ostra donante . Este va a ser segmentado en mas de una docena de piezas. Cada una de estas , va a ser colocada junto a  una bolita de perlamadre en una ostra. Dos anos más tarde y luego de intensivos cuidados, se procede a la cosecha de la perla.',

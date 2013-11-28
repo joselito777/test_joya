@@ -15,7 +15,7 @@
 			),
 			'tahiti-perlen' => array(
 
-				'garnelle-anemone_1024.jpg',
+				'Die Atolle bieten Nahrung und Schutz für viele Meeresbewohner, so wie hier einer Garnele in einem Anemonenfeld.',
 				'hai-mit-korben_1024.jpg',
 				'Ein Schwarm junger Barracudas streift durch die Gewässer des Südpazifiks.',
 				'Aus einer „Spender“ - Muschel entnimmt der Operateur Mantelgewebe. Dieses wird segmentiert in etwa zwölf Stückchen (von wenigen Millimetern Größe). Jedes dieser Stückchen wird zusammen mit einem Kern in eine Muschel eingeführt. Nach etwa zwei Jahren erfolgt die Ernte.',

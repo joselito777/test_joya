@@ -6,7 +6,7 @@
 				'perlenkette.png'
 			),
 			'tahiti-perlen' => array(
-				'garnelle-anemone_1024.jpg',
+				'The atoll provides food and shelter for different species of marine life. Here a crustacean in a field of anemones.',
 				'hai-mit-korben_1024.jpg',
 				'A young barracuda shoal wanders about in Pacific waters.',
 				'A worker extracts epithelium from a donor oyster. It will be cut in more than twelve parts which will be placed next to a little mother-pearl ball inside an oyster. Two years later, and after intensive care, the pearls will be harvested.',
