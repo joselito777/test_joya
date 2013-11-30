@@ -1,5 +1,4 @@
 <h3>Formacion Técnica</h3>
-</p>
 <p>
 Nicolás Piaggio, (1954 - 3 hijos), es perito en diamantes (D.D.I. Fundacion Alemana de Diamantes Pforzheim) y especialista en el tema perlas de cultivo y sustancias orgánicas (Sociedad Gemológica Alemana – Idar Oberstein) desde 1994.
 </p>
