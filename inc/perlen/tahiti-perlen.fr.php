@@ -1,5 +1,5 @@
 <h3><?=$dictionarySubSections['perlen']['tahiti-perlen']?></h3>
 <p>
-	Under construction...
+	Les perles de Tahiti sont cultivées à l’intérieur des atolls. Les murs corallins des anciens volcans dans lesquels a eu lieu l’origine de la vie sur la terre, présentent une constitution poreuse permettant ainsi l’enrichissement de leurs eaux intérieures grâce au flux de minéraux, silices, nitrates et sels qui nourrissent les premiers maillons de la chaîne alimentaire. Tout cela sert à nourrir les larves des huîtres (Pinctada Margaritifera) qui grandissent et se reproduisent dans des conditions optimales. C’est ainsi que la perle-mère prend des tons foncés aux teintes vertes et rouges que, curieusement, on ne trouve que dans la culture de perles dans la Mer de Cortés, entre la Basse Californie et la partie continentale du Mexique. Cette perle est cultivée dans le bivalve Pteria Sterna, seul exemple au monde d’une perle sphérique cultivée dans cette classe d’huître, puisque normalement on fait des implantations d’une demi-perle (mabé), c’est-à-dire, directement sur la partie interne de la coquille marine.
 </p>
 
