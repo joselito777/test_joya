@@ -1,0 +1,3 @@
+<p>
+	De la misma familia del rubí, presenta propiedades de dureza semejantes y es por eso elegido por nosotros como punto principal de adorno en anillos, entre otras joyas. Su nombre viene del griego y significa "azul". Es por esa razón que se lo ha utilizado durante el medioevo para denominar otras piedras preciosas de ese color. En el siglo XIX, debido a sus propiedades, se ha reconocido su pertenencia -junto al rubí- al grupo Corund. La sustancia colorante es hierro y titanio. Los amarillos y verdes indican poca cantidad de hierro en su composición. Entre las minas más importantes, están las de Australia, Birmania, Ceilán y Tailandia.
+</p>

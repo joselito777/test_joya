@@ -1,0 +1,3 @@
+<p>
+	Its hardness is similar to that of the ruby and that is why it is one of our first choices as main gemstone in rings and other jewellery. Its name comes from a Greek word that means “blue”. This is the reason why this word was used in the Middle Ages to term other gems of the same colour.  In the 19th  century, due to its attributes, it has been included -together with the ruby- in the Corund group. The substance that gives colour to these gems is iron and titanium. The yellows and greens show a low amount of iron in its composition. Among the most important mines are the ones in Australia, Burma, Ceylon and Thailand.
+</p>

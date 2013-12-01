@@ -27,6 +27,9 @@ $subSections = array(
 	'diamenten' => array(
 	),
 	'farbedelsteine' => array(
+		'ruby',
+		'sapphire',
+		'emerald'
 	),
 	'platin-gold' => array(
 	),

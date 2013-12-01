@@ -1,4 +1,4 @@
 <h3><?=$dictionarySections['farbedelsteine']?></h3>
-<p>
-	
-</p>
+<?php
+	include($folderRoot.'/inc/farbedelsteine/farbedelsteine.'.$language.'.php');
+?>

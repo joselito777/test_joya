@@ -20,30 +20,14 @@
 			'akoya-perlen' => 'Perlas Akoya',
 			'chin-sudwaser-perlen' => 'Chin. perlas de agua dulce',
 		 ), 
-		'diamenten' => array(
-			'diamenten-a' => 'Diamantes A',
-			'diamenten-b' => 'Diamantes B',
-			'diamenten-c' => 'Diamantes C',
-			'diamenten-d' => 'Diamantes D',
-		), 
+		'diamenten' => array(),
 		'farbedelsteine' => array(
-			'farbedelsteine-a' => 'Piedras preciosas de color A',
-			'farbedelsteine-b' => 'Piedras preciosas de color B',
-			'farbedelsteine-c' => 'Piedras preciosas de color C'
-		), 
-		'platin-gold' => array(
-			'platin-gold-a' => 'Platino + Oro A',
-			'platin-gold-b' => 'Platino + Oro B',
-			'platin-gold-c' => 'Platino + Oro C',
-			'platin-gold-d' => 'Platino + Oro D',
-			'platin-gold-e' => 'Platino + Oro E',
-			'platin-gold-f' => 'Platino + Oro F'
+			'ruby' => 'El rubí',
+			'sapphire' => 'El zafiro',
+			'emerald' => 'Esmeralda'
 		),
-		'internetshop' => array(
-			'internetshop-a' => 'Internetshop A',
-			'internetshop-b' => 'Internetshop B',
-			'internetshop-c' => 'Internetshop C'
-		)
+		'platin-gold' => array(),
+		'internetshop' => array()
 	);
 
 	$dictionaryHeader = array(

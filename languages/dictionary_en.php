@@ -4,7 +4,7 @@
 		'internetshop' => 'Internetshop',
 		'perlen' => 'Pearls',
 		'diamenten' => 'Diamonds',
-		'farbedelsteine' => 'Colored gemstones',
+		'farbedelsteine' => 'Precious gemstones',
 		'platin-gold' => 'Platinum + Gold',
 		'kontakt' => 'Contact',
 		'impressum' => 'Imprint'
@@ -20,30 +20,14 @@
 			'akoya-perlen' => 'Akoya Pearls',
 			'chin-sudwaser-perlen' => 'Chin. Freshwater Pearls',
 		 ), 
-		'diamenten' => array(
-			'diamenten-a' => 'Diamonds A',
-			'diamenten-b' => 'Diamonds B',
-			'diamenten-c' => 'Diamonds C',
-			'diamenten-d' => 'Diamonds D',
-		), 
+		'diamenten' => array(), 
 		'farbedelsteine' => array(
-			'farbedelsteine-a' => 'Colored gemstones A',
-			'farbedelsteine-b' => 'Colored gemstones B',
-			'farbedelsteine-c' => 'Colored gemstones C'
-		), 
-		'platin-gold' => array(
-			'platin-gold-a' => 'Platinum + Gold A',
-			'platin-gold-b' => 'Platinum + Gold B',
-			'platin-gold-c' => 'Platinum + Gold C',
-			'platin-gold-d' => 'Platinum + Gold D',
-			'platin-gold-e' => 'Platinum + Gold E',
-			'platin-gold-f' => 'Platinum + Gold F'
+			'ruby' => 'The ruby',
+			'sapphire' => 'The sapphire',
+			'emerald' => 'The emerald'
 		),
-		'internetshop' => array(
-			'internetshop-a' => 'Internetshop A',
-			'internetshop-b' => 'Internetshop B',
-			'internetshop-c' => 'Internetshop C'
-		)
+		'platin-gold' => array(),
+		'internetshop' => array()
 	);
 
 	$dictionaryHeader = array(
