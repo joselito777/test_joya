@@ -32,6 +32,7 @@ $subSections = array(
 		'emerald'
 	),
 	'platin-gold' => array(
+		'palladium'
 	),
 	'internetshop' => array(
 	)

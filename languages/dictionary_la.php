@@ -26,7 +26,9 @@
 			'sapphire' => 'El zafiro',
 			'emerald' => 'Esmeralda'
 		),
-		'platin-gold' => array(),
+		'platin-gold' => array(
+			'palladium' => 'Palladium'
+		),
 		'internetshop' => array()
 	);
 

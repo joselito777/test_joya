@@ -1,4 +1,4 @@
 <h3><?=$dictionarySections['platin-gold']?></h3>
-<p>
-	
-</p
+<?php
+	include($folderRoot.'/inc/platin-gold/platin-gold.'.$language.'.php');
+?>
