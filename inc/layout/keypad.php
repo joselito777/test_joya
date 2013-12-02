@@ -11,7 +11,7 @@
 					$auxLinksec = 'http://www.goldschmiede-piaggio.de/';
 				}
 				?>
-					<li class="<?=$activeSection?>" >
+					<li class="<?=$activeSection?> <?=$keySec?>" >
 						<a class="<?=$activeSection?>" href="<?=$auxLinksec?>" title="<?=$dictionarySections[$keySec]?>" <?=$auxTarget?>>
 							<?=$dictionarySections[$keySec]?>
 						</a>

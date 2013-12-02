@@ -57,6 +57,14 @@ nav li a{
 	padding:1px 0px;
 	display: block;
 }
+
+nav li.internetshop a {
+ font-weight: bold;
+ background: url(../images/layout/background_30.png);
+ color:#eeeeee;
+ padding:3px;
+ margin: 3px 0;
+}
 nav li{
 	border-bottom: 1px solid #ffffff;
 	text-transform: uppercase;
