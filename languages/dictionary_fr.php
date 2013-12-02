@@ -3,16 +3,16 @@
 		'home' => 'Goldschmiede-Atelier Piaggio',
 		'internetshop' => 'Internetshop',
 		'perlen' => 'Perles',
-		'diamenten' => 'Diamonds',
-		'farbedelsteine' => 'Pierres de couleur',
-		'platin-gold' => 'Platin + Gold',
+		'diamenten' => 'Diamants',
+		'farbedelsteine' => 'Pierres précieuses de couleur',
+		'platin-gold' => 'Platin + Or',
 		'kontakt' => 'Contactez',
 		'impressum' => 'Mentions légales'
 	);
 
 	$dictionarySubSections = array(
 		'home' => array(
-			'technical-education' => 'Education Technique'
+			'technical-education' => 'Formation Technique'
 		),
 		'perlen' => array(
 			'tahiti-perlen' => 'Perles de Tahiti',

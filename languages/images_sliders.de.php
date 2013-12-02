@@ -16,7 +16,7 @@
 			'tahiti-perlen' => array(
 
 				'Die Atolle bieten Nahrung und Schutz für viele Meeresbewohner, so wie hier einer Garnele in einem Anemonenfeld.',
-				'hai-mit-korben_1024.jpg',
+				'hai mit korben ',
 				'Ein Schwarm junger Barracudas streift durch die Gewässer des Südpazifiks.',
 				'Aus einer „Spender“ - Muschel entnimmt der Operateur Mantelgewebe. Dieses wird segmentiert in etwa zwölf Stückchen (von wenigen Millimetern Größe). Jedes dieser Stückchen wird zusammen mit einem Kern in eine Muschel eingeführt. Nach etwa zwei Jahren erfolgt die Ernte.',
 				'Die Arbeit auf Perlenfarmen ist eine lebensgefährliche Aktivität.',
@@ -27,12 +27,12 @@
 			),
 			'sudsee-perlen' => array(
 				'Ein Hai streift über  den Meeresgrund. Haie, Salzwasserkrokodile, giftige Quallen,. Seeschlangen und starke Strömungen sind einige der Gefahren,  denen die Farmarbeiter ausgesetzt sind.',
-				'japanese-cementery-broome_1024.jpg',
-				'uw-fisch_1024.jpg',
-				'rafflesbay-australien-perlenfarm_1024.jpg',
-				'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
-				'broome-pearls_1024.jpg',
-				'broome-harbour_1024.jpg',
+				'japanese cementery broome ',
+				'uw fisch ',
+				'rafflesbay australien perlenfarm ',
+				'keit dureau sam marlow kuribayashi ',
+				'broome pearls ',
+				'broome harbour ',
 				'Einer der Feinde der Perlen-Muscheln: Tintenfische und Seesterne ernähren sich von Mollusken.',
 				'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
 				'Die “Paspaley III" ist zusammen mit der “Vivien", die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
@@ -40,13 +40,13 @@
 		),
 		'diamenten' => array(
 			'diamenten' => array(
-				'miles-de-toneladas-de-material-se-deben-revolver-para-encontrar-1-quilate_1024.jpg',
-				'anillo-artesanal-con-brillantes-marrones_1024.jpg',
-				'joyascon-brillantesde-nuestra-oferta_1024.jpg',
-				'seleccion-de-diamantes-en-amberes_1024.jpg',
-				'talla-de-diamantesen-amberes_1024.jpg',
-				'hovenierstraat-la-mas-importante-de-europa_1024.jpg',
-				'australia-minadediamantes_1024.jpg',
+				'miles de toneladas de material se deben revolver para encontrar 1 quilate ',
+				'anillo artesanal con brillantes marrones ',
+				'joyascon brillantesde nuestra oferta ',
+				'seleccion de diamantes en amberes ',
+				'talla de diamantesen amberes ',
+				'hovenierstraat la mas importante de europa ',
+				'australia minadediamantes ',
 			),
 		),
 	);

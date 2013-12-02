@@ -2,12 +2,12 @@
 	$photos_footer = array(
 		'perlen' => array(
 			'chin-sudwaser-perlen' => array(
-				'perlen-ausstellung1areduz-hp.png',
-				'perlenkette.png'
+				'',
+				''
 			),
 			'tahiti-perlen' => array(
 				'The atoll provides food and shelter for different species of marine life. Here a crustacean in a field of anemones.',
-				'hai-mit-korben_1024.jpg',
+				'hai mit korben ',
 				'A young barracuda shoal wanders about in Pacific waters.',
 				'A worker extracts epithelium from a donor oyster. It will be cut in more than twelve parts which will be placed next to a little mother-pearl ball inside an oyster. Two years later, and after intensive care, the pearls will be harvested.',
 				'Working in pearl-bearing zones is a high risk activitiy.',
@@ -17,12 +17,12 @@
 			),
 			'sudsee-perlen' => array(
 				'A shark swims in deep ocean waters. Sharks, salt water crocodiles, jellyfish and strong currents are some of the dangers pearl farm workers face on a daily basis.',
-				'japanese-cementery-broome_1024.jpg',
-				'uw-fisch_1024.jpg',
-				'rafflesbay-australien-perlenfarm_1024.jpg',
-				'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
-				'broome-pearls_1024.jpg',
-				'broome-harbour_1024.jpg',
+				'japanese cementery broome ',
+				'uw fisch ',
+				'rafflesbay australien perlenfarm ',
+				'keit dureau sam marlow kuribayashi ',
+				'broome pearls ',
+				'broome harbour ',
 				'Some enemies of the pearl oyster: octopuses and starfishes eat molluscs.',
 				'Nicolás Piaggio dives in pearl farms in different continents. It is here where the specialist from Göttingen receives first hand information. In this shot, he captured a scorpion fish in crystal clear waters.',
 				'The “Paspaley III” is, together with the “Vivien”, the largest ship in the pearl industry. In its facilities, tasks such as nucleus implantation, harvesting, cleaning and quality control with X-rays are carried out.',
@@ -30,13 +30,13 @@
 		),
 		'diamenten' => array(
 			'diamenten' => array(
-				'miles-de-toneladas-de-material-se-deben-revolver-para-encontrar-1-quilate_1024.jpg',
-				'anillo-artesanal-con-brillantes-marrones_1024.jpg',
-				'joyascon-brillantesde-nuestra-oferta_1024.jpg',
-				'seleccion-de-diamantes-en-amberes_1024.jpg',
-				'talla-de-diamantesen-amberes_1024.jpg',
-				'hovenierstraat-la-mas-importante-de-europa_1024.jpg',
-				'australia-minadediamantes_1024.jpg',
+				'miles de toneladas de material se deben revolver para encontrar 1 quilate ',
+				'anillo artesanal con brillantes marrones ',
+				'joyas con brillantesde nuestra oferta ',
+				'seleccion de diamantes en amberes ',
+				'talla de diamantesen amberes ',
+				'hovenierstraat la mas importante de europa ',
+				'australia mina de diamantes ',
 			),
 		),
 	);
