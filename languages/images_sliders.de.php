@@ -8,7 +8,6 @@
 				'Die Süsswasser-Zuchtperlen aus China, haben die größte Farbpalette von allen Perlen der Welt. Dennoch ist der Lüster, der beeinflusst wird durch die Temperatur des Wassers, nicht immer sehr gut.',
 				'Die Züchtung von Perlen im Tai Hu See, wie auch im Jangtsekiang Fluß, ist kontrollierbar. Die Muscheln werden in geregelten Abständen zugunsten der Perlenproduktion untersucht.',
 				'Junge Chinesinnen selektieren Perlen nach Größe, Form, Farbe, Lüster und Oberflächenbeschaffenheit.',
-				'Ein Blick aus dem Grand Hotel in der Stadt Wuxi auf die Tin Hial Brücke über den "Kaiser Kanal".',
 				'Hong Kong ist das Mekka des asiatischen Handels.',
 				'Ein Geschäftsmann zeigt auf einer Perlenfarm die "Long Lines", an denen die Muscheln aufbewahrt werden.',
 				'In Hong Kong; Nicolas Piaggio im Gespräch mit Hagop Tchabarian, Perlenzüchter in China.'
@@ -23,13 +22,10 @@
 			'sudsee-perlen' => array(
 				'Ein Hai streift über  den Meeresgrund. Haie, Salzwasserkrokodile, giftige Quallen,. Seeschlangen und starke Strömungen sind einige der Gefahren,  denen die Farmarbeiter ausgesetzt sind.',
 				'Der japanische Friedhof in Broome beherbergt  600 Gräber aus der Zeit des Perlenbooms. Sicherheitsvorkehrungen und Unwetterwarnungen gab es damals nicht.',
-				
 				'rafflesbay australien perlenfarm ',
-				
 				'Broome  war im 19. Jahrhundert der berühmteste Perlenhafen der Erde, hier wurden um 1910  mit 400 Booten  80 Prozent des weltweiten Perlmutt-Bedarfs gedeckt.',
 				'In Hafen von Broome liegt diese Holz-Ketsch vor Anker, möglicherweise war sie beim Perlenboom 1920 im Einsatz.',
 				'Einer der Feinde der Perlen-Muscheln: Tintenfische und Seesterne ernähren sich von Mollusken.',
-				
 				'Die “Paspaley III" ist zusammen mit der “Vivien", die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
 			),
 		),
@@ -52,6 +48,7 @@
 			'uw fisch ',
 			'keit dureau sam marlow kuribayashi ',
 			'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
+			'Ein Blick aus dem Grand Hotel in der Stadt Wuxi auf die Tin Hial Brücke über den "Kaiser Kanal".',
 		)
 	);
 ?>

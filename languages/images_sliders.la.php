@@ -8,7 +8,6 @@
 				'Las perlas de agua dulce de la china tienen la más variada gama de colores que existe. No obstante, no poseen siempre un brillo profundo. Esto se debe a la influencia que la temperatura del agua tiene sobre el nácar.',
 				'La producción de perlas en el Tai Hu como así también en los afluentes del río jangtsekiang, es controlable. Las ostras se someten a un periódico control para aumentar la producción perlífera.',
 				'Jóvenes chinas seleccionan la cosecha de perlas dividiéndolas por su tamaño, forma, color, lustre y calidad de superficie.',
-				'Desde el Grand Hotel, en la ciudad de Wuxi, una vista del puente Tin Hial sobre el "Kaiser Canal".',
 				'Un ejecutivo chino nos muestra las hileras de ostras a escasa profundidad en una granja de perlas.',
 				'Cruce de calles con gente en H.K.:Hong Kong es la meca del comercio asiático.',
 				'En Hong Kong, Nicolas Piaggio  conversa con Hagop Tschabarian Productor de perlas en China.'
@@ -22,13 +21,10 @@
 			'sudsee-perlen' => array(
 				'Un tiburón recorre los fondos marinos. Tiburones, cocodrilos de agua salada, medusas, serpientes marinas y las fuertes corrientes son peligros a los que se someten los trabajadores  en granjas de perlas.',
 				'El cementerio japonés de Broome guarda 600 nichos de la época de la pesca de ostras. Por entonces no existían conocimientos de seguridad en las inmersiones ni se podían predecir tormentas.',
-				
 				'rafflesbay-australien-perlenfarm ',
-				
 				'En 1900 fué la ciudad de Broome, el puerto de perlas más conocido del mundo. En 1910, 400 botes suplían el 80 % del consumo mundial de  perlamadre básica para la industria de botones y ornamentos.',
 				'Anclado en el puerto de Broome un antiguo velero usado probablemente en la época de la explotación del nácar (1920)',
 				'Uno de los enemigos de las ostras perlíferas: pulpos y estrellas marinas se alimentan de moluscos.',
-				
 				'En las instalaciones del Paspaley III, que junto al “Vivien” es el barco más grande en la industria de la perla, se realizan tareas de implantación de núcleos y cosecha de perlas, como así también trabajos postoperatorios como controles con rayos "X" y limpieza de ostras.',
 			),
 		),
@@ -51,6 +47,7 @@
 			'uw-fisch ',
 			'keit-dureau-sam-marlow-kuribayashi ',
 			'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
+			'Desde el Grand Hotel, en la ciudad de Wuxi, una vista del puente Tin Hial sobre el "Kaiser Canal".',
 		)
 	);
 ?>

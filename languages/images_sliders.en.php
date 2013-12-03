@@ -14,13 +14,10 @@
 			'sudsee-perlen' => array(
 				'A shark swims in deep ocean waters. Sharks, salt water crocodiles, jellyfish and strong currents are some of the dangers pearl farm workers face on a daily basis.',
 				'japanese cementery broome ',
-				
 				'rafflesbay australien perlenfarm ',
-				
 				'broome pearls ',
 				'broome harbour ',
 				'Some enemies of the pearl oyster: octopuses and starfishes eat molluscs.',
-				
 				'The “Paspaley III” is, together with the “Vivien”, the largest ship in the pearl industry. In its facilities, tasks such as nucleus implantation, harvesting, cleaning and quality control with X-rays are carried out.',
 			),
 		),

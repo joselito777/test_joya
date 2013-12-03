@@ -8,7 +8,6 @@
 				'Les perles d’eau douce de Chine offrent une gamme de couleurs absolument extraordinaire. Cependant, leur éclat n’est pas toujours profond à cause de l’influence de la température de l’eau sur la nacre.',
 				'On peut contrôler la production de perles aussi bien dans le Tai Hu que sur les affluents du fleuve Jangtsekiang. Les huîtres sont soumises à un contrôle périodique en vue d’augmenter la production perlière.',
 				'Des jeunes filles chinoises sélectionnent la récolte de perles en les séparant par taille, forme, couleur, éclat et qualité de la surface.',
-				'Depuis le Grand Hôtel, dans la ville de Wuxi, une vue du pont Tin Hial sur le « Kaiser Canal ».',
 				'Un directeur d’entreprise chinois nous montre les rangées d’huîtres tout près de la surface dans une ferme perlière.',
 				'Carrefour de rues avec des passants à Hong Kong. Cette ville est la Mecque du commerce asiatique.',
 				'À Hong Kong, Nicolás Piaggio dialogue avec Hagop Tschabarian, producteur de perles en Chine.'
@@ -18,18 +17,14 @@
 				'Ranguiroa est un anneau d’origine volcanique dans le Pacifique. L’un de ses bords de mer est habitable et possède quelques kilomètres de long. Une rue goudronnée relie une petite quantité de centres de plongée, deux ou trois hôtels, une école pour la culture des perles, un restaurant et une petite urbanisation.',
 				'Ranguiroa, Polynésie française. Une hutte typique construite avec les matériaux locaux sur le rivage de l’atoll fait partie d’un petit et simple complexe hôtelier. Ici, il n’est pas rare de voir passer de jeunes requins dans les eaux intérieures.',
 				'Robert Wan est sans doute la personne la plus importante dans le monde de la perle en Polynésie Française et, probablement, l’homme le plus riche de l’archipel. La culture perlière dans cette région constitue la troisième source de revenus du pays. Robert Wan gère plusieurs parcs perliers dans les différents atolls. Ici, au moment d’une interview avec Nicolás Piaggio dans ses bureaux à Papeete.',
-				
 			),
 			'sudsee-perlen' => array(
 				'Un requin parcourt les fonds marins. Requins, crocodiles d’eau salée, méduses, serpents marins et les forts courants constituent des dangers auxquels doivent faire face les travailleurs dans les fermes perlières.',
 				'Cimetière japonais de Bromme. 600 tombes y témoignent de l’époque de la pêche d’huîtres. En ce moment, il n’y avait pas de mesures de sécurité pour les plongeurs et on ne pouvait pas prédire les orages.',
-				
 				'Afflesbay. Ferme perlière australienne ',
-				
 				'La ville de Broome était, en 1900, le port de perles le plus connu au monde. En 1910, 400 canots fournissaient 80% de la consommation de perle-mère base pour l’industrie de boutons et ornements.',
 				'Un ancien voilier ancré au Port de Bromme. Il était probablement utilisé à l’époque de l’exploitation de la nacre (1920).',
 				'Ennemis des huîtres perlières: les pieuvres et les étoiles de mer se nourrissent de mollusques.',
-				
 				'Le Paspaley III est, avec le “Vivien”, le bateau plus grand de l’industrie perlière. On y réalise des tâches comme l’implantation de nucléus, la récolte des perles, le contrôle de la qualité sous rayons X et le nettoyage des huîtres.',
 			),
 		),
@@ -52,6 +47,7 @@
 			'uw fisch ',
 			'keit dureau sam marlow kuribayashi ',
 			'Nicolas Piaggio plonge dans les eaux des parcs à huîtres de différents continents. C’est là que le spécialiste de perles de Göttingen obtient des informations de première main. Ici, il photographie un poisson scorpion.',
+			'Depuis le Grand Hôtel, dans la ville de Wuxi, une vue du pont Tin Hial sur le « Kaiser Canal ».',
 		)
 	);
 ?>

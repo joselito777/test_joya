@@ -8,7 +8,6 @@
 				'ostra-perlifera-en-china_1024.jpg',
 				'ostras-en-cesto_1024.jpg',
 				'operadoras-clasifican-perlas_1024.jpg',
-				'tin-hial-bridge.png',
 				'granjacercanaa-wuxi-china.jpg',
 				'hongkong-mekadelnegocioasiatico.png',
 				'piaggio-y-hagop-chevarian-en-hk_1024.jpg',
@@ -22,13 +21,10 @@
 			'sudsee-perlen' => array(
 				'hai-kubaI_1024.jpg',
 				'japanese-cementery-broome_1024.jpg',
-				
 				'rafflesbay-australien-perlenfarm_1024.jpg',
-				
 				'broome-pearls_1024.jpg',
 				'broome-harbour_1024.jpg',
 				'tintenfisch-hp_1024.jpg',
-				
 				'papaleyiii_1024.jpg'
 			),
 		),
@@ -51,6 +47,7 @@
 			'uw-fisch_1024.jpg',
 			'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
 			'nicolasfisch_1024.jpg',
+			'tin-hial-bridge.png',
 		)
 	);
 ?>
