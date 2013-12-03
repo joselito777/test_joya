@@ -4,14 +4,14 @@
 			'chin-sudwaser-perlen' => array(
 				'Cette perle, obtenue après plusieurs années de travail et d’expérimentation de techniques, peut, vu sa qualité, atteindre des prix supérieurs à ceux des perles de culture de Tahiti et d’Australie.',
 				'Pour cultiver ce type de perles à la forme de « corn flakes », les moules ne sont pas nucléonées ; on utilise des pièces d’épithélium d’une autre huître que l’on introduit dans le coquillage. Nos fermoirs faits à la main en or 750/000, respectent la forme de la perle en l’accompagnant avec harmonie.',
-				'Dans une ferme de perles proche de la ville de Wuxi, aux bords du Tai Hu (lac Tai), en Chine, un travailleur greffier contrôle la croissance et le nettoyage des huîtres perlières.',
+				'Dans une ferme de perles proche de la ville de Wuxi, aux bords du Tai Hu (lac Tai), en Chine, un travailleur greffeur contrôle la croissance et le nettoyage des huîtres perlières.',
 				'Les perles d’eau douce de Chine offrent une gamme de couleurs absolument extraordinaire. Cependant, leur éclat n’est pas toujours profond à cause de l’influence de la température de l’eau sur la nacre.',
 				'On peut contrôler la production de perles aussi bien dans le Tai Hu que sur les affluents du fleuve Jangtsekiang. Les huîtres sont soumises à un contrôle périodique en vue d’augmenter la production perlière.',
 				'Des jeunes filles chinoises sélectionnent la récolte de perles en les séparant par taille, forme, couleur, éclat et qualité de la surface.',
 				'Depuis le Grand Hôtel, dans la ville de Wuxi, une vue du pont Tin Hial sur le « Kaiser Canal ».',
 				'Un directeur d’entreprise chinois nous montre les rangées d’huîtres tout près de la surface dans une ferme perlière.',
 				'Carrefour de rues avec des passants à Hong Kong. Cette ville est la Mecque du commerce asiatique.',
-				''
+				'À Hong Kong, Nicolás Piaggio dialogue avec Hagop Tschabarian, producteur de perles en Chine.'
 			),
 			'tahiti-perlen' => array(
 				'Les atolls fournissent de la nourriture et de l’abri à plusieurs espèces. Ici, un crustacé dans un champ d’anémones.',
@@ -26,12 +26,12 @@
 			),
 			'sudsee-perlen' => array(
 				'Un requin parcourt les fonds marins. Requins, crocodiles d’eau salée, méduses, serpents marins et les forts courants constituent des dangers auxquels doivent faire face les travailleurs dans les fermes perlières.',
-				'cimetière japonais broome ',
+				'Cimetière japonais de Bromme. 600 tombes y témoignent de l’époque de la pêche d’huîtres. En ce moment, il n’y avait pas de mesures de sécurité pour les plongeurs et on ne pouvait pas prédire les orages.',
 				'uw fisch ',
 				'Afflesbay. Ferme perlière australienne ',
 				'keit dureau sam marlow kuribayashi ',
-				'Broome perles ',
-				'Bromme. Port ',
+				'La ville de Broome était, en 1900, le port de perles le plus connu au monde. En 1910, 400 canots fournissaient 80% de la consommation de perle-mère base pour l’industrie de boutons et ornements.',
+				'Un ancien voilier ancré au Port de Bromme. Il était probablement utilisé à l’époque de l’exploitation de la nacre (1920).',
 				'Ennemis des huîtres perlières: les pieuvres et les étoiles de mer se nourrissent de mollusques.',
 				'Nicolas Piaggio plonge dans les eaux des parcs à huîtres de différents continents. C’est là que le spécialiste de perles de Göttingen obtient des informations de première main. Ici, il photographie un poisson scorpion.',
 				'Le Paspaley III est, avec le “Vivien”, le bateau plus grand de l’industrie perlière. On y réalise des tâches comme l’implantation de nucléus, la récolte des perles, le contrôle de la qualité sous rayons X et le nettoyage des huîtres.',
