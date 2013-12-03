@@ -6,6 +6,7 @@
 		'diamenten' => 'Diamanten',
 		'farbedelsteine' => 'Farbedelsteine',
 		'platin-gold' => 'Platin und Gold',
+		'gallerie' => 'Gallerie',
 		'kontakt' => 'Kontakt',
 		'impressum' => 'Impressum'
 	);
@@ -17,10 +18,10 @@
 		'perlen' => array(
 			),
 		'perlen' => array(
-			'tahiti-perlen' => 'Tahiti-Perlen',
-			'sudsee-perlen' => 'Südsee-Perlen',
-			'akoya-perlen' => 'Akoya-Perlen',
-			'chin-sudwaser-perlen' => 'Chin. Südwaser-Perlen',
+			'tahiti-perlen' => 'Tahiti Perlen',
+			'sudsee-perlen' => 'Süsswasserperlen',
+			'akoya-perlen' => 'Akoya Perlen',
+			'chin-sudwaser-perlen' => 'Chin. Süsswasserperlen',
 		 ), 
 		'diamenten' => array(), 
 		'farbedelsteine' => array(

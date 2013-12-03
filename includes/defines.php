@@ -6,6 +6,7 @@ $sections = array(
 	'diamenten',
 	'farbedelsteine',
 	'platin-gold',
+	'gallerie',
 	'kontakt',
 	'impressum'
 );

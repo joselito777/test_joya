@@ -14,11 +14,7 @@
 				'À Hong Kong, Nicolás Piaggio dialogue avec Hagop Tschabarian, producteur de perles en Chine.'
 			),
 			'tahiti-perlen' => array(
-				'Les atolls fournissent de la nourriture et de l’abri à plusieurs espèces. Ici, un crustacé dans un champ d’anémones.',
-				'hai mit korben ',
-				'Un banc de jeunes barracudas se promène dans les eaux du Pacifique.',
 				'Un travailleur greffeur extrait l’épithélium d’une huître. Ce tissu sera coupé en une dizaine de pièces. Chaque pièce est placée dans une autre huître avec un petit nucléus sphérique de perle-mère. Deux ans plus tard et après des soins intensifs, les perles peuvent être ramassées.',
-				'Travailler dans des zones perlières constitue une activité de risque.',
 				'Ranguiroa est un anneau d’origine volcanique dans le Pacifique. L’un de ses bords de mer est habitable et possède quelques kilomètres de long. Une rue goudronnée relie une petite quantité de centres de plongée, deux ou trois hôtels, une école pour la culture des perles, un restaurant et une petite urbanisation.',
 				'Ranguiroa, Polynésie française. Une hutte typique construite avec les matériaux locaux sur le rivage de l’atoll fait partie d’un petit et simple complexe hôtelier. Ici, il n’est pas rare de voir passer de jeunes requins dans les eaux intérieures.',
 				'Robert Wan est sans doute la personne la plus importante dans le monde de la perle en Polynésie Française et, probablement, l’homme le plus riche de l’archipel. La culture perlière dans cette région constitue la troisième source de revenus du pays. Robert Wan gère plusieurs parcs perliers dans les différents atolls. Ici, au moment d’une interview avec Nicolás Piaggio dans ses bureaux à Papeete.',
@@ -48,5 +44,11 @@
 				'australie - mine de diamants ',
 			),
 		),
+		'gallerie' => array(
+			'Les atolls fournissent de la nourriture et de l’abri à plusieurs espèces. Ici, un crustacé dans un champ d’anémones.',
+			'hai mit korben ',
+			'Un banc de jeunes barracudas se promène dans les eaux du Pacifique.',
+			'Travailler dans des zones perlières constitue une activité de risque.',
+		)
 	);
 ?>

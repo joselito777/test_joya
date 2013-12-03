@@ -14,12 +14,7 @@
 				'piaggio-y-hagop-chevarian-en-hk_1024.jpg',
 			),
 			'tahiti-perlen' => array(
-
-				'garnelle-anemone_1024.jpg',
-				'hai-mit-korben_1024.jpg',
-				'barrakudas-uw_1024.jpg',
 				'zuchtung-perle_1024.jpg',
-				'tiburon-rangiroa-ia_1024.jpg',
 				'rangiroa-strasse_1024.jpg',
 				'hutte-rangiroa_1024.jpg',
 				'robertwan_1024.jpg'
@@ -48,5 +43,11 @@
 				'australia-minadediamantes_1024.jpg',
 			),
 		),
+		'gallerie' => array(
+			'garnelle-anemone_1024.jpg',
+			'hai-mit-korben_1024.jpg',
+			'barrakudas-uw_1024.jpg',
+			'tiburon-rangiroa-ia_1024.jpg',
+		)
 	);
 ?>

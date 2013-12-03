@@ -14,11 +14,7 @@
 				'En Hong Kong, Nicolas Piaggio  conversa con Hagop Tschabarian Productor de perlas en China.'
 			),
 			'tahiti-perlen' => array(
-				'Los atolones proporcionan alimento  y refugio para muchas especies. Aquí un crustáceo en un campo de anémonas.',
-				'hai-mit-korben ',
-				'Un cardumen de barracudas jóvenes pasea por aguas del Pacífico.',
 				'Un operador extrae epitelio de una ostra donante . Este va a ser segmentado en mas de una docena de piezas. Cada una de estas , va a ser colocada junto a  una bolita de perlamadre en una ostra. Dos anos más tarde y luego de intensivos cuidados, se procede a la cosecha de la perla.',
-				'Trabajar en zonas perlíferas es una actividad de riesgo.',
 				'Ranguiroa es un anillo de orígen volcánico en el Pacífico. Una de sus orillas es habitable y tiene unos pocos kilómetros de largo. Una calle asfaltada sirve de nexo entre unas pocas bases de buceo, un par de hoteles, una escuela para el cultivo de perlas, un restaurante y una escasa urbanizacion.',
 				'En Ranguiroa (Polinesia francesa) una típica Choza construída con materiales del lugar a orillas  del atolón,  pertenece a un  sencillo  y pequeno complejo hotelero. Desde ella, no es raro ver pequenos tiburones pasear por sus aguas internas.',
 				'Robert Wan es la personalidad más importante del mundo de la perla en la Polinesia Francesa, y probablemente el hombre más rico del archipiélago. El cultivo de la perla en esta zona constituye el tercer ingreso de dinero más importante del país. Robert Wan cultiva perlas en diferentes atolones. Aquí en entrevista con Nicolas Piaggio en sus oficinas en Papete.',
@@ -47,5 +43,11 @@
 				'australia-minadediamantes ',
 			),
 		),
+		'gallerie' => array(
+			'Los atolones proporcionan alimento  y refugio para muchas especies. Aquí un crustáceo en un campo de anémonas.',
+			'hai-mit-korben ',
+			'Un cardumen de barracudas jóvenes pasea por aguas del Pacífico.',
+			'Trabajar en zonas perlíferas es una actividad de riesgo.',
+		)
 	);
 ?>
