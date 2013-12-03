@@ -5,7 +5,7 @@
 		'perlen' => 'Perlen',
 		'diamenten' => 'Diamanten',
 		'farbedelsteine' => 'Farbedelsteine',
-		'platin-gold' => 'Platin + Gold',
+		'platin-gold' => 'Platin und Gold',
 		'kontakt' => 'Kontakt',
 		'impressum' => 'Impressum'
 	);
@@ -24,9 +24,9 @@
 		 ), 
 		'diamenten' => array(), 
 		'farbedelsteine' => array(
-			'ruby' => 'The ruby',
-			'sapphire' => 'The sapphire',
-			'emerald' => 'The emerald'
+			'ruby' => 'Der Rubin',
+			'sapphire' => 'Der Saphir',
+			'emerald' => 'Der Smaragde'
 		), 
 		'platin-gold' => array(
 			'palladium' => 'Paladio'
