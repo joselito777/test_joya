@@ -5,7 +5,7 @@
 		'perlen' => 'Perles',
 		'diamenten' => 'Diamants',
 		'farbedelsteine' => 'Pierres précieuses de couleur',
-		'platin-gold' => 'Platin + Or',
+		'platin-gold' => 'Platin, Or + Palladium',
 		'gallerie' => 'Galerie',
 		'kontakt' => 'Contactez',
 		'impressum' => 'Mentions légales'

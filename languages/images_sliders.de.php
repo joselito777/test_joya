@@ -31,13 +31,13 @@
 		),
 		'diamenten' => array(
 			'diamenten' => array(
-				'miles de toneladas de material se deben revolver para encontrar 1 quilate ',
-				'anillo artesanal con brillantes marrones ',
-				'joyascon brillantesde nuestra oferta ',
-				'seleccion de diamantes en amberes ',
-				'talla de diamantesen amberes ',
-				'hovenierstraat la mas importante de europa ',
-				'australia minadediamantes ',
+				'',
+				'',
+				'',
+				'',
+				'',
+				'',
+				'',
 			),
 		),
 		'gallerie' => array(

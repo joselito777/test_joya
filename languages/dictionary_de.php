@@ -5,7 +5,7 @@
 		'perlen' => 'Perlen',
 		'diamenten' => 'Diamanten',
 		'farbedelsteine' => 'Farbedelsteine',
-		'platin-gold' => 'Platin und Gold',
+		'platin-gold' => 'Platin, Gold und Palladium',
 		'gallerie' => 'Gallerie',
 		'kontakt' => 'Kontakt',
 		'impressum' => 'Impressum'
@@ -30,7 +30,7 @@
 			'emerald' => 'Der Smaragde'
 		), 
 		'platin-gold' => array(
-			'palladium' => 'Paladio'
+			'palladium' => 'Palladium'
 		),
 		'internetshop' => array()
 	);
