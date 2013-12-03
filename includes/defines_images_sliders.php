@@ -22,13 +22,13 @@
 			'sudsee-perlen' => array(
 				'hai-kubaI_1024.jpg',
 				'japanese-cementery-broome_1024.jpg',
-				'uw-fisch_1024.jpg',
+				
 				'rafflesbay-australien-perlenfarm_1024.jpg',
-				'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
+				
 				'broome-pearls_1024.jpg',
 				'broome-harbour_1024.jpg',
 				'tintenfisch-hp_1024.jpg',
-				'nicolasfisch_1024.jpg',
+				
 				'papaleyiii_1024.jpg'
 			),
 		),
@@ -48,6 +48,9 @@
 			'hai-mit-korben_1024.jpg',
 			'barrakudas-uw_1024.jpg',
 			'tiburon-rangiroa-ia_1024.jpg',
+			'uw-fisch_1024.jpg',
+			'keit-dureau-sam-marlow-kuribayashi_1024.jpg',
+			'nicolasfisch_1024.jpg',
 		)
 	);
 ?>

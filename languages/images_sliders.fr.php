@@ -23,13 +23,13 @@
 			'sudsee-perlen' => array(
 				'Un requin parcourt les fonds marins. Requins, crocodiles d’eau salée, méduses, serpents marins et les forts courants constituent des dangers auxquels doivent faire face les travailleurs dans les fermes perlières.',
 				'Cimetière japonais de Bromme. 600 tombes y témoignent de l’époque de la pêche d’huîtres. En ce moment, il n’y avait pas de mesures de sécurité pour les plongeurs et on ne pouvait pas prédire les orages.',
-				'uw fisch ',
+				
 				'Afflesbay. Ferme perlière australienne ',
-				'keit dureau sam marlow kuribayashi ',
+				
 				'La ville de Broome était, en 1900, le port de perles le plus connu au monde. En 1910, 400 canots fournissaient 80% de la consommation de perle-mère base pour l’industrie de boutons et ornements.',
 				'Un ancien voilier ancré au Port de Bromme. Il était probablement utilisé à l’époque de l’exploitation de la nacre (1920).',
 				'Ennemis des huîtres perlières: les pieuvres et les étoiles de mer se nourrissent de mollusques.',
-				'Nicolas Piaggio plonge dans les eaux des parcs à huîtres de différents continents. C’est là que le spécialiste de perles de Göttingen obtient des informations de première main. Ici, il photographie un poisson scorpion.',
+				
 				'Le Paspaley III est, avec le “Vivien”, le bateau plus grand de l’industrie perlière. On y réalise des tâches comme l’implantation de nucléus, la récolte des perles, le contrôle de la qualité sous rayons X et le nettoyage des huîtres.',
 			),
 		),
@@ -49,6 +49,9 @@
 			'hai mit korben ',
 			'Un banc de jeunes barracudas se promène dans les eaux du Pacifique.',
 			'Travailler dans des zones perlières constitue une activité de risque.',
+			'uw fisch ',
+			'keit dureau sam marlow kuribayashi ',
+			'Nicolas Piaggio plonge dans les eaux des parcs à huîtres de différents continents. C’est là que le spécialiste de perles de Göttingen obtient des informations de première main. Ici, il photographie un poisson scorpion.',
 		)
 	);
 ?>

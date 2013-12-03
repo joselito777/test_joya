@@ -23,13 +23,13 @@
 			'sudsee-perlen' => array(
 				'Ein Hai streift über  den Meeresgrund. Haie, Salzwasserkrokodile, giftige Quallen,. Seeschlangen und starke Strömungen sind einige der Gefahren,  denen die Farmarbeiter ausgesetzt sind.',
 				'Der japanische Friedhof in Broome beherbergt  600 Gräber aus der Zeit des Perlenbooms. Sicherheitsvorkehrungen und Unwetterwarnungen gab es damals nicht.',
-				'uw fisch ',
+				
 				'rafflesbay australien perlenfarm ',
-				'keit dureau sam marlow kuribayashi ',
+				
 				'Broome  war im 19. Jahrhundert der berühmteste Perlenhafen der Erde, hier wurden um 1910  mit 400 Booten  80 Prozent des weltweiten Perlmutt-Bedarfs gedeckt.',
 				'In Hafen von Broome liegt diese Holz-Ketsch vor Anker, möglicherweise war sie beim Perlenboom 1920 im Einsatz.',
 				'Einer der Feinde der Perlen-Muscheln: Tintenfische und Seesterne ernähren sich von Mollusken.',
-				'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
+				
 				'Die “Paspaley III" ist zusammen mit der “Vivien", die auch der Firma Paspaley gehört, weltweit das größte Schiff der Perlenindustrie. In deren Einrichtungen werden Austern bekernt und geerntet. Aber auch postoperatorische Behandlungen, wie die regelmäßige Reinigung der Muscheln und ihre Kontrolle, finden hier statt.',
 			),
 		),
@@ -49,6 +49,9 @@
 			'hai mit korben ',
 			'Ein Schwarm junger Barracudas streift durch die Gewässer des Südpazifiks.',
 			'Die Arbeit auf Perlenfarmen ist eine lebensgefährliche Aktivität.',
+			'uw fisch ',
+			'keit dureau sam marlow kuribayashi ',
+			'Nicolas Piaggio betaucht Perlenfarmen in verschiedenen Kontinenten. Dort findet der Perlen-Spezialist aus Göttingen Informationen aus erster Hand. Hier fotografiert er in kristallklarem Gewässer einen Rotfeuerfisch.',
 		)
 	);
 ?>

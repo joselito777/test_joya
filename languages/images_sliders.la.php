@@ -22,13 +22,13 @@
 			'sudsee-perlen' => array(
 				'Un tiburón recorre los fondos marinos. Tiburones, cocodrilos de agua salada, medusas, serpientes marinas y las fuertes corrientes son peligros a los que se someten los trabajadores  en granjas de perlas.',
 				'El cementerio japonés de Broome guarda 600 nichos de la época de la pesca de ostras. Por entonces no existían conocimientos de seguridad en las inmersiones ni se podían predecir tormentas.',
-				'uw-fisch ',
+				
 				'rafflesbay-australien-perlenfarm ',
-				'keit-dureau-sam-marlow-kuribayashi ',
+				
 				'En 1900 fué la ciudad de Broome, el puerto de perlas más conocido del mundo. En 1910, 400 botes suplían el 80 % del consumo mundial de  perlamadre básica para la industria de botones y ornamentos.',
 				'Anclado en el puerto de Broome un antiguo velero usado probablemente en la época de la explotación del nácar (1920)',
 				'Uno de los enemigos de las ostras perlíferas: pulpos y estrellas marinas se alimentan de moluscos.',
-				'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
+				
 				'En las instalaciones del Paspaley III, que junto al “Vivien” es el barco más grande en la industria de la perla, se realizan tareas de implantación de núcleos y cosecha de perlas, como así también trabajos postoperatorios como controles con rayos "X" y limpieza de ostras.',
 			),
 		),
@@ -48,6 +48,9 @@
 			'hai-mit-korben ',
 			'Un cardumen de barracudas jóvenes pasea por aguas del Pacífico.',
 			'Trabajar en zonas perlíferas es una actividad de riesgo.',
+			'uw-fisch ',
+			'keit-dureau-sam-marlow-kuribayashi ',
+			'Nicolas Piaggio bucea en granjas perlíferas de diferentes continentes. En estas encuentra el especialista de perlas de Göttingen información de “primera mano”. Aquí fotografía en aguas cristalinas un pez escorpión.',
 		)
 	);
 ?>

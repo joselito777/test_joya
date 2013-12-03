@@ -14,13 +14,13 @@
 			'sudsee-perlen' => array(
 				'A shark swims in deep ocean waters. Sharks, salt water crocodiles, jellyfish and strong currents are some of the dangers pearl farm workers face on a daily basis.',
 				'japanese cementery broome ',
-				'uw fisch ',
+				
 				'rafflesbay australien perlenfarm ',
-				'keit dureau sam marlow kuribayashi ',
+				
 				'broome pearls ',
 				'broome harbour ',
 				'Some enemies of the pearl oyster: octopuses and starfishes eat molluscs.',
-				'Nicolás Piaggio dives in pearl farms in different continents. It is here where the specialist from Göttingen receives first hand information. In this shot, he captured a scorpion fish in crystal clear waters.',
+				
 				'The “Paspaley III” is, together with the “Vivien”, the largest ship in the pearl industry. In its facilities, tasks such as nucleus implantation, harvesting, cleaning and quality control with X-rays are carried out.',
 			),
 		),
@@ -40,6 +40,9 @@
 			'hai mit korben ',
 			'A young barracuda shoal wanders about in Pacific waters.',
 			'Working in pearl-bearing zones is a high risk activitiy.',
+			'uw fisch ',
+			'keit dureau sam marlow kuribayashi ',
+			'Nicolás Piaggio dives in pearl farms in different continents. It is here where the specialist from Göttingen receives first hand information. In this shot, he captured a scorpion fish in crystal clear waters.',
 		)
 	);
 ?>
