@@ -20,7 +20,7 @@
 			),
 			'sudsee-perlen' => array(
 				'Un requin parcourt les fonds marins. Requins, crocodiles d’eau salée, méduses, serpents marins et les forts courants constituent des dangers auxquels doivent faire face les travailleurs dans les fermes perlières.',
-				'Cimetière japonais de Bromme. 600 tombes y témoignent de l’époque de la pêche d’huîtres. En ce moment, il n’y avait pas de mesures de sécurité pour les plongeurs et on ne pouvait pas prédire les orages.',
+				'Cimetière japonais de Broome. 600 tombes y témoignent de l’époque de la pêche d’huîtres. En ce moment, il n’y avait pas de mesures de sécurité pour les plongeurs et on ne pouvait pas prédire les orages.',
 				'Afflesbay. Ferme perlière australienne ',
 				'La ville de Broome était, en 1900, le port de perles le plus connu au monde. En 1910, 400 canots fournissaient 80% de la consommation de perle-mère base pour l’industrie de boutons et ornements.',
 				'Un ancien voilier ancré au Port de Bromme. Il était probablement utilisé à l’époque de l’exploitation de la nacre (1920).',

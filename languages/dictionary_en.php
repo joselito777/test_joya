@@ -6,7 +6,7 @@
 		'diamenten' => 'Diamonds',
 		'farbedelsteine' => 'Precious gemstones',
 		'platin-gold' => 'Platinum, Gold + Palladium',
-		'gallerie' => 'Gallery',
+		'gallerie' => 'PhotoGallery',
 		'kontakt' => 'Contact',
 		'impressum' => 'Imprint'
 	);
